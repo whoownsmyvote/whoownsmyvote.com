@@ -12,6 +12,7 @@ function Header() {
         <nav className="site-nav">
           <Link to="/">All Politicians</Link>
           <a href="https://www.fec.gov" target="_blank" rel="noopener">FEC Source</a>
+          <a href="https://buymeacoffee.com/whoownsmyvote" target="_blank" rel="noopener" style={{ color: '#e8c12d' }}>☕ Support</a>
         </nav>
       </div>
     </header>
@@ -21,11 +22,20 @@ function Header() {
 function Footer() {
   return (
     <footer className="site-footer">
+      <p style={{ color: '#999', fontSize: 12, marginBottom: 8 }}>
+        Built by a concerned citizen who believes we all deserve to know the truth.
+      </p>
+      <p style={{ fontSize: 12, marginBottom: 10 }}>
+        <a href="https://buymeacoffee.com/whoownsmyvote" target="_blank" rel="noopener"
+          style={{ color: '#e8c12d', textDecoration: 'underline' }}>
+          If this is useful to you, consider buying me a coffee.
+        </a>
+      </p>
       <p>
         Data sourced from FEC Schedule A filings · All information is public record
       </p>
       <p style={{ marginTop: 6 }}>
-        whoownsmyvote.com · Built with public data for public accountability
+        whoownsmyvote.com
       </p>
     </footer>
   )
