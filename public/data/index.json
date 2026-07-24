@@ -74,5 +74,24 @@
     "pacPercent": 54,
     "avgDonation": 61,
     "maxedOosPercent": 100.0
+  },
+  {
+    "name": "Rand Paul",
+    "slug": "rand-paul-ky",
+    "district": "KY-Senate",
+    "party": "R",
+    "chamber": "Senate",
+    "state": "KY",
+    "dateRange": "Jan 2025 – Jun 2026",
+    "totalRaised": 4235127,
+    "homeStatePercent": 11.5,
+    "outOfStatePercent": 88.5,
+    "aipacTotal": 0,
+    "aipacPercent": 0.0,
+    "individualTotal": 2694385,
+    "pacMoney": 1785049,
+    "pacPercent": 40,
+    "avgDonation": 78,
+    "maxedOosPercent": 91.1
   }
 ]
