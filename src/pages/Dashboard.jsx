@@ -104,7 +104,6 @@ export default function Dashboard() {
 
   const s = data.summary
 
-  // Calculate percentage of total for each state bar
   const stateDataWithPct = data.stateBreakdown.map(item => ({
     ...item,
     pctOfTotal: (item.amount / s.individualTotal * 100).toFixed(1),
@@ -124,7 +123,7 @@ export default function Dashboard() {
       {/* Stat row 1 */}
       <div className="cards">
         <StatCard label="Total raised (net)" value={fmt(s.totalRaised)} sub={`${s.totalTransactions} transactions`} />
-        <StatCard label={`${data.stateFull} constituent $`} value={fmtFull(s.homeStateTotal)} sub={`${s.homeStatePercent}% of individual donations`} accent />
+        <StatCard label="In-state constituent $" value={fmtFull(s.homeStateTotal)} sub={`${s.homeStatePercent}% of individual donations`} accent />
         <StatCard label="Out-of-state individual $" value={fmtFull(s.outOfStateTotal)} sub={`${s.outOfStatePercent}% of individual donations`} />
         <StatCard label="Pro-Israel lobby" value={fmtFull(s.aipacTotal)} sub={`${s.aipacTransactions} earmarked contributions`} warn />
       </div>
