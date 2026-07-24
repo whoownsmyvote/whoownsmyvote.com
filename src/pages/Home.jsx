@@ -35,7 +35,6 @@ export default function Home() {
       if (sortBy === 'outOfState') return b.outOfStatePercent - a.outOfStatePercent
       if (sortBy === 'totalRaised') return b.totalRaised - a.totalRaised
       if (sortBy === 'avgDonation') return (b.avgDonation || 0) - (a.avgDonation || 0)
-      if (sortBy === 'maxedOos') return (b.maxedOosPercent || 0) - (a.maxedOosPercent || 0)
       if (sortBy === 'name') return a.name.localeCompare(b.name)
       return 0
     })
@@ -135,7 +134,6 @@ export default function Home() {
         >
           <option value="aipacTotal">Sort: Pro-Israel Lobby $ (high → low)</option>
           <option value="outOfState">Sort: Out-of-state % (high → low)</option>
-          <option value="maxedOos">Sort: Maxed donors out-of-state % (high → low)</option>
           <option value="avgDonation">Sort: Avg donation (high → low)</option>
           <option value="totalRaised">Sort: Total raised (high → low)</option>
           <option value="name">Sort: Name (A → Z)</option>
@@ -177,8 +175,8 @@ export default function Home() {
                   <div className="stat-value">{fmt(p.totalRaised)}</div>
                 </div>
                 <div className="stat-item">
-                  <div className="stat-label" style={{ color: 'var(--text-dim)' }}>In-State %</div>
-                  <div className="stat-value" style={{ color: 'var(--accent)' }}>{p.homeStatePercent}%</div>
+                  <div className="stat-label">In-State %</div>
+                  <div className="stat-value">{p.homeStatePercent}%</div>
                 </div>
                 <div className="stat-item">
                   <div className="stat-label">Out-of-State %</div>
@@ -191,10 +189,6 @@ export default function Home() {
                 <div className="stat-item">
                   <div className="stat-label">Avg Donation</div>
                   <div className="stat-value">${(p.avgDonation || 0).toLocaleString()}</div>
-                </div>
-                <div className="stat-item">
-                  <div className="stat-label">Maxed from OOS</div>
-                  <div className="stat-value">{p.maxedOosPercent || '—'}%</div>
                 </div>
                 <div className="stat-item">
                   <div className="stat-label">PAC %</div>
