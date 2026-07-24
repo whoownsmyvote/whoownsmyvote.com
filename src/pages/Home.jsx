@@ -71,7 +71,7 @@ export default function Home() {
             color: 'var(--text-secondary)', fontFamily: 'inherit', cursor: 'pointer',
           }}
         >
-          <option value="aipacTotal">Sort: AIPAC $ (high → low)</option>
+          <option value="aipacTotal">Sort: Pro-Israel Lobby $ (high → low)</option>
           <option value="outOfState">Sort: Out-of-state % (high → low)</option>
           <option value="totalRaised">Sort: Total raised (high → low)</option>
           <option value="name">Sort: Name (A → Z)</option>
@@ -114,7 +114,7 @@ export default function Home() {
                 </div>
                 <div>
                   <div style={{ fontSize: 11, color: 'var(--text-dim)', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 2 }}>Home State %</div>
-                  <div style={{ fontSize: 18, fontWeight: 700, color: p.homeStatePercent < 25 ? 'var(--accent)' : 'var(--text-primary)' }}>
+                  <div style={{ fontSize: 18, fontWeight: 700, color: 'var(--accent)' }}>
                     {p.homeStatePercent}%
                   </div>
                 </div>
@@ -123,7 +123,7 @@ export default function Home() {
                   <div style={{ fontSize: 18, fontWeight: 700 }}>{p.outOfStatePercent}%</div>
                 </div>
                 <div>
-                  <div style={{ fontSize: 11, color: 'var(--warn)', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 2 }}>AIPAC Total</div>
+                  <div style={{ fontSize: 11, color: 'var(--warn)', textTransform: 'uppercase', letterSpacing: 0.5, marginBottom: 2 }}>Pro-Israel Lobby</div>
                   <div style={{ fontSize: 18, fontWeight: 700, color: 'var(--warn)' }}>{fmt(p.aipacTotal)}</div>
                 </div>
                 <div>
