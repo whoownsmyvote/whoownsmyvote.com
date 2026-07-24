@@ -55,5 +55,24 @@
     "pacPercent": 47,
     "avgDonation": 790,
     "maxedOosPercent": 89.9
+  },
+  {
+    "name": "Bernie Sanders",
+    "slug": "bernie-sanders-vt",
+    "district": "VT-Senate",
+    "party": "D",
+    "chamber": "Senate",
+    "state": "VT",
+    "dateRange": "Jan 2025 – Mar 2026",
+    "totalRaised": 12370670,
+    "homeStatePercent": 3.1,
+    "outOfStatePercent": 96.9,
+    "aipacTotal": 200,
+    "aipacPercent": 0.0,
+    "individualTotal": 5725984,
+    "pacMoney": 6644686,
+    "pacPercent": 54,
+    "avgDonation": 61,
+    "maxedOosPercent": 100.0
   }
 ]
