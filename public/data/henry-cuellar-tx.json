@@ -1,0 +1,5753 @@
+{
+  "name": "Henry Cuellar",
+  "slug": "henry-cuellar-tx",
+  "district": "TX-28",
+  "party": "D",
+  "chamber": "House",
+  "state": "TX",
+  "stateFull": "Texas",
+  "committee": "Texans for Henry Cuellar Congressional Campaign",
+  "committeeId": "C00371302",
+  "dateRange": "Jan 2025 \u2013 Mar 2026",
+  "summary": {
+    "totalRaised": 2123834,
+    "totalTransactions": 1339,
+    "homeStateTotal": 452777.48,
+    "homeStatePercent": 54.8,
+    "outOfStateTotal": 373760.35,
+    "outOfStatePercent": 45.2,
+    "aipacTotal": 31050,
+    "aipacTransactions": 12,
+    "israelAlignedTotal": 32050,
+    "aipacBundled": 0,
+    "aipacPercent": 3.8,
+    "pacMoney": 975691,
+    "pacPercent": 46,
+    "candidateSelfFunding": 249366,
+    "selfFundingNote": "$200K loan + $38K loan + monthly $750",
+    "individualTotal": 826537.83,
+    "individualTransactions": 671,
+    "avgDonation": 1232.0,
+    "medianDonation": 875,
+    "maxedDonations": 101,
+    "pctFromOver1000": 84.9,
+    "dollarFromOver1000": 701443,
+    "pctFromUnder100": 0.4,
+    "dollarFromUnder100": 3276
+  },
+  "stateBreakdown": [
+    {
+      "state": "TX",
+      "amount": 452777.48,
+      "count": 412,
+      "isHome": true
+    },
+    {
+      "state": "CA",
+      "amount": 91023.5,
+      "count": 37,
+      "isHome": false
+    },
+    {
+      "state": "MA",
+      "amount": 48992.68,
+      "count": 31,
+      "isHome": false
+    },
+    {
+      "state": "NY",
+      "amount": 48433.98,
+      "count": 25,
+      "isHome": false
+    },
+    {
+      "state": "VA",
+      "amount": 33500.0,
+      "count": 27,
+      "isHome": false
+    },
+    {
+      "state": "FL",
+      "amount": 24298.08,
+      "count": 26,
+      "isHome": false
+    },
+    {
+      "state": "MD",
+      "amount": 22750.0,
+      "count": 17,
+      "isHome": false
+    },
+    {
+      "state": "DC",
+      "amount": 19178.26,
+      "count": 28,
+      "isHome": false
+    },
+    {
+      "state": "IL",
+      "amount": 14680.0,
+      "count": 14,
+      "isHome": false
+    },
+    {
+      "state": "MI",
+      "amount": 11500.0,
+      "count": 5,
+      "isHome": false
+    },
+    {
+      "state": "OR",
+      "amount": 7250.0,
+      "count": 3,
+      "isHome": false
+    },
+    {
+      "state": "MN",
+      "amount": 7250.0,
+      "count": 3,
+      "isHome": false
+    },
+    {
+      "state": "MO",
+      "amount": 5500.0,
+      "count": 4,
+      "isHome": false
+    },
+    {
+      "state": "AZ",
+      "amount": 4750.0,
+      "count": 4,
+      "isHome": false
+    },
+    {
+      "state": "TN",
+      "amount": 4500.0,
+      "count": 3,
+      "isHome": false
+    }
+  ],
+  "topPacs": [
+    {
+      "name": "ACTBLUE",
+      "amount": 360286.81,
+      "type": "conduit"
+    },
+    {
+      "name": "JEFFRIES BATTLEGROUND PROTECTION FUND",
+      "amount": 39290.0,
+      "type": "pac"
+    },
+    {
+      "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC",
+      "amount": 31050.0,
+      "type": "aipac"
+    },
+    {
+      "name": "FRONTLINE PROTECTION FUND",
+      "amount": 24217.32,
+      "type": "pac"
+    },
+    {
+      "name": "DIGIDEMS PAC",
+      "amount": 20200.0,
+      "type": "pac"
+    },
+    {
+      "name": "NEW DEMOCRAT COALITION ACTION FUND",
+      "amount": 16500.0,
+      "type": "pac"
+    },
+    {
+      "name": "CLARK FRONTLINE VICTORY FUND",
+      "amount": 15200.0,
+      "type": "pac"
+    },
+    {
+      "name": "DEMOCRATIC MAJORITY FUND",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "ASSOCIATED GENERAL CONTRACTORS OF AMERICA PAC",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "JOBS EDUCATION AND FAMILIES FIRST JEFFPAC",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "HMP",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "BORDER HEALTH FEDERAL PAC",
+      "amount": 10000.0,
+      "type": "pac"
+    },
+    {
+      "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+      "amount": 10000.0,
+      "type": "pac"
+    }
+  ],
+  "donationSizeDistribution": [
+    {
+      "bracket": "$1\u2013100",
+      "count": 51,
+      "amount": 3276.07
+    },
+    {
+      "bracket": "$101\u2013250",
+      "count": 91,
+      "amount": 21867.84
+    },
+    {
+      "bracket": "$251\u2013500",
+      "count": 181,
+      "amount": 88925.48
+    },
+    {
+      "bracket": "$501\u20131K",
+      "count": 143,
+      "amount": 139025.14
+    },
+    {
+      "bracket": "$1K\u20132.5K",
+      "count": 86,
+      "amount": 163462.53
+    },
+    {
+      "bracket": "$2.5K\u20133.5K",
+      "count": 119,
+      "amount": 409980.77
+    }
+  ],
+  "notableDonors": [
+    {
+      "category": "Defense & National Security",
+      "color": "#ef4444",
+      "donors": [
+        {
+          "name": "Palmer Luckey",
+          "detail": "Founder, Anduril Industries",
+          "state": "CA",
+          "amount": 7000,
+          "maxed": true,
+          "note": "Conservative-aligned defense tech founder donating max to a Democrat \u2014 Anduril has border surveillance contracts in TX-28"
+        },
+        {
+          "name": "Neely Silbey",
+          "detail": "Policy Director, Booz Allen Hamilton",
+          "state": "VA",
+          "amount": 7000,
+          "maxed": true,
+          "note": ""
+        },
+        {
+          "name": "Bruce Gates",
+          "detail": "Ops Analyst, Defense Contract Mgmt Agency",
+          "state": "TX",
+          "amount": 7000,
+          "maxed": true,
+          "note": ""
+        },
+        {
+          "name": "Patricia Driscoll",
+          "detail": "CEO, Frontline Defense Systems",
+          "state": "MD",
+          "amount": 500,
+          "maxed": false,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "category": "Finance & Private Equity",
+      "color": "#8b5cf6",
+      "donors": [
+        {
+          "name": "Josh & Anita Bekenstein",
+          "detail": "Bain Capital",
+          "state": "MA",
+          "amount": 14000,
+          "maxed": true,
+          "note": ""
+        },
+        {
+          "name": "Howard Marks",
+          "detail": "Co-Chair, Oaktree Capital",
+          "state": "CA",
+          "amount": 2000,
+          "maxed": false,
+          "note": ""
+        },
+        {
+          "name": "Geoffrey Raynor",
+          "detail": "Q Investments",
+          "state": "TX",
+          "amount": 3125,
+          "maxed": false,
+          "note": ""
+        },
+        {
+          "name": "Jon Stryker",
+          "detail": "Billionaire philanthropist",
+          "state": "NY",
+          "amount": 7000,
+          "maxed": true,
+          "note": ""
+        },
+        {
+          "name": "William Kistler",
+          "detail": "Kistler Investment Company",
+          "state": "NY",
+          "amount": 7000,
+          "maxed": true,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "category": "Lobbying & Beltway",
+      "color": "#f59e0b",
+      "donors": [
+        {
+          "name": "Filemon Vela",
+          "detail": "Attorney, Akin Gump (fmr. TX Congressman)",
+          "state": "TX",
+          "amount": 3300,
+          "maxed": false,
+          "note": "Former colleague turned K Street lobbyist"
+        },
+        {
+          "name": "Alexander Silbey",
+          "detail": "Silbey Strategies, Consultant",
+          "state": "VA",
+          "amount": 7000,
+          "maxed": true,
+          "note": ""
+        },
+        {
+          "name": "Marc Rodriguez",
+          "detail": "Self-employed lobbyist",
+          "state": "TX",
+          "amount": 3000,
+          "maxed": false,
+          "note": ""
+        }
+      ]
+    },
+    {
+      "category": "Border & Trade Interests",
+      "color": "#2dd4a8",
+      "donors": [
+        {
+          "name": "Vale family",
+          "detail": "Starr-Camargo Bridge Co.",
+          "state": "TX",
+          "amount": 17500,
+          "maxed": true,
+          "note": "Operate international bridge crossing on TX-Mexico border \u2014 direct interest in Cuellar's trade & border policy"
+        },
+        {
+          "name": "Juan Francisco Ochoa Sr.",
+          "detail": "Owner, Taco Palenque",
+          "state": "TX",
+          "amount": 7000,
+          "maxed": true,
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "allDonors": [
+    {
+      "name": "CLARKSON, LLAYRON L. JR",
+      "state": "TX",
+      "employer": "CLARKSON AEROSPACE CORPORATION",
+      "occupation": "ENGINEER",
+      "amount": 3500.0,
+      "date": "2025-10-15"
+    },
+    {
+      "name": "RUDY, DEBORAH",
+      "state": "MI",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-12-04"
+    },
+    {
+      "name": "MODICA, CHARLES R.",
+      "state": "FL",
+      "employer": "ST. GEORGE'S UNIVERSITY",
+      "occupation": "CHANCELLOR",
+      "amount": 3500.0,
+      "date": "2025-10-10"
+    },
+    {
+      "name": "GABBERT, MARTHA",
+      "state": "MN",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-10-14"
+    },
+    {
+      "name": "FOWLER, AMY G.",
+      "state": "NY",
+      "employer": "SOLIL MANAGEMENT",
+      "occupation": "CO-OWNER",
+      "amount": 3500.0,
+      "date": "2025-10-29"
+    },
+    {
+      "name": "DISNEY, TIM",
+      "state": "CA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "WRITER",
+      "amount": 3500.0,
+      "date": "2025-11-21"
+    },
+    {
+      "name": "KNIGHT, EDWARD S.",
+      "state": "MD",
+      "employer": "NASDAQ INC.",
+      "occupation": "VICE CHAIRMAN",
+      "amount": 3500.0,
+      "date": "2025-12-11"
+    },
+    {
+      "name": "GATES, BRUCE",
+      "state": "TX",
+      "employer": "DEFENSE CONTRACT MANAGEMENT AGENCY",
+      "occupation": "OPERATIONS ANALYST",
+      "amount": 3500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "CLARKSON, LLAYRON L. JR",
+      "state": "TX",
+      "employer": "CLARKSON AEROSPACE CORPORATION",
+      "occupation": "ENGINEER",
+      "amount": 3500.0,
+      "date": "2025-12-11"
+    },
+    {
+      "name": "GATES, BRUCE",
+      "state": "TX",
+      "employer": "DEFENSE CONTRACT MANAGEMENT AGENCY",
+      "occupation": "OPERATIONS ANALYST",
+      "amount": 3500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "RUDY, RICHARD",
+      "state": "MI",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-12-04"
+    },
+    {
+      "name": "VALE-ORTIZ, JENNIFER L.",
+      "state": "TX",
+      "employer": "STARR-CAMARGO BRIDGE CO.",
+      "occupation": "EXECUTIVE",
+      "amount": 3500.0,
+      "date": "2025-12-30"
+    },
+    {
+      "name": "SMITH, LAMAR",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "HINOJOSA, OSCAR",
+      "state": "TX",
+      "employer": "O. ENRIQUE HINOJOSA PENA AGENTE ADUANA",
+      "occupation": "OWNER",
+      "amount": 3500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "SILBEY, NEELY",
+      "state": "VA",
+      "employer": "BOOZ ALLEN HAMILTON",
+      "occupation": "POLICY DIRECTOR",
+      "amount": 3500.0,
+      "date": "2025-12-05"
+    },
+    {
+      "name": "TAYLOR, DALE",
+      "state": "IL",
+      "employer": "ABELSONTAYLOR",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 3500.0,
+      "date": "2025-10-19"
+    },
+    {
+      "name": "KELLNER, PETER L.",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-12-17"
+    },
+    {
+      "name": "KELLNER, PETER L.",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-12-17"
+    },
+    {
+      "name": "BOYERS, MICHELLE",
+      "state": "CA",
+      "employer": "GIVE FORWARD FOUNDATION",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 3500.0,
+      "date": "2025-12-18"
+    },
+    {
+      "name": "EYCHANER, FRED",
+      "state": "IL",
+      "employer": "NEWSWEB CORPORATION",
+      "occupation": "CHAIRMAN AND FOUNDER",
+      "amount": 3500.0,
+      "date": "2025-12-29"
+    },
+    {
+      "name": "GABBERT, MARTHA",
+      "state": "MN",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2026-01-26"
+    },
+    {
+      "name": "LAUFER, ERIC",
+      "state": "NY",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ENGINEER",
+      "amount": 3500.0,
+      "date": "2026-01-28"
+    },
+    {
+      "name": "RANDALL, GIOVANNA",
+      "state": "NY",
+      "employer": "HONOR NYC",
+      "occupation": "PRESIDENT AND HEAD DESIGNER",
+      "amount": 3500.0,
+      "date": "2026-01-28"
+    },
+    {
+      "name": "LAUFER, ERIC",
+      "state": "NY",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ENGINEER",
+      "amount": 3500.0,
+      "date": "2026-01-28"
+    },
+    {
+      "name": "RANDALL, GIOVANNA",
+      "state": "NY",
+      "employer": "HONOR NYC",
+      "occupation": "PRESIDENT AND HEAD DESIGNER",
+      "amount": 3500.0,
+      "date": "2026-01-28"
+    },
+    {
+      "name": "WELCH, PAT",
+      "state": "OR",
+      "employer": "MOUSE BRAINS LLC",
+      "occupation": "SCIENTIST",
+      "amount": 3500.0,
+      "date": "2026-01-29"
+    },
+    {
+      "name": "VALE, ROBERT A. SR",
+      "state": "TX",
+      "employer": "STARR CAMAGO BRIDGE CO.",
+      "occupation": "VP, TRADE DEVELOPMENT",
+      "amount": 3500.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "BOYERS, MICHELLE",
+      "state": "CA",
+      "employer": "GIVE FORWARD FOUNDATION",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 3500.0,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "LUCKEY, PALMER",
+      "state": "CA",
+      "employer": "ANDURIL INDUSTRIES INC.",
+      "occupation": "FOUNDER",
+      "amount": 3500.0,
+      "date": "2025-03-26"
+    },
+    {
+      "name": "GARZA, EDUARDO A.",
+      "state": "TX",
+      "employer": "UNI-TRADE FOWARDING",
+      "occupation": "CO-OWNER",
+      "amount": 3500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "VALE, SAMUEL F.",
+      "state": "TX",
+      "employer": "STARR CAMARGO BRIDGE CO.",
+      "occupation": "PRESIDENT",
+      "amount": 3500.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "GARZA, JUANITA G.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 3500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "VALE, CYNTHIA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 3500.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "CHERN, ERIC",
+      "state": "IL",
+      "employer": "CTC",
+      "occupation": "MANAGER",
+      "amount": 3500.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "GONZALEZ, ELLA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "GONZALEZ, JORGE",
+      "state": "TX",
+      "employer": "GONZALEZ PROPERTIES",
+      "occupation": "CEO",
+      "amount": 3500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "KISTLER, WILLIAM",
+      "state": "NY",
+      "employer": "KISTLER INVESTMENT COMPANY",
+      "occupation": "INVESTMENT MANAGER",
+      "amount": 3500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "KISTLER, WILLIAM",
+      "state": "NY",
+      "employer": "KISTLER INVESTMENT COMPANY",
+      "occupation": "INVESTMENT MANAGER",
+      "amount": 3500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "PADILLA, VICTOR",
+      "state": "TX",
+      "employer": "PADILLA IMPORT SALES AND MARKETING",
+      "occupation": "CEO",
+      "amount": 3500.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "SCHWARTZ, MARTIN",
+      "state": "CA",
+      "employer": "MINILEC SERVICE",
+      "occupation": "CONSUMER ELECTRONICS",
+      "amount": 3500.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "TIGUA INDIAN RESERVATION",
+      "state": "TX",
+      "employer": "",
+      "occupation": "",
+      "amount": 3500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "WELCH, TERESA",
+      "state": "OR",
+      "employer": "WILD IRIS COMMUNICATIONS",
+      "occupation": "EDITOR",
+      "amount": 3500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "EARL, DAVID L.",
+      "state": "TX",
+      "employer": "EARL & ASSOCIATES P.C.",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "EARL, MEGAN J.",
+      "state": "TX",
+      "employer": "EARL & ASSOCIATES P.C.",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "FRANTZ, JOHN R.",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2026-03-04"
+    },
+    {
+      "name": "GONZALEZ, SARALEE",
+      "state": "TX",
+      "employer": "WICKED STINGER MEDIA LLC",
+      "occupation": "BRAND CONSULTANT",
+      "amount": 3500.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "LUCKEY, PALMER",
+      "state": "CA",
+      "employer": "ANDURIL INDUSTRIES INC.",
+      "occupation": "FOUNDER",
+      "amount": 3500.0,
+      "date": "2026-03-09"
+    },
+    {
+      "name": "OCHOA, JUAN FRANCISCO SR.",
+      "state": "TX",
+      "employer": "TACO PALENQUE",
+      "occupation": "OWNER",
+      "amount": 3500.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "OCHOA, JUAN FRANCISCO SR.",
+      "state": "TX",
+      "employer": "TACO PALENQUE",
+      "occupation": "OWNER",
+      "amount": 3500.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "OWENBY, CLIFFORD M.",
+      "state": "TX",
+      "employer": "RESOLUTE GRID",
+      "occupation": "MANUFACTURING",
+      "amount": 3500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "RISLEY, CHRISTOPHER",
+      "state": "CA",
+      "employer": "BASTILLE",
+      "occupation": "CEO",
+      "amount": 3500.0,
+      "date": "2026-03-05"
+    },
+    {
+      "name": "VILLA, IAN",
+      "state": "TN",
+      "employer": "WHISPER AERO INC.",
+      "occupation": "CO-FOUNDER COO",
+      "amount": 3500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "WOLFF, SAMUEL",
+      "state": "CA",
+      "employer": "ACCELDATA INC.",
+      "occupation": "CFO",
+      "amount": 3500.0,
+      "date": "2026-03-27"
+    },
+    {
+      "name": "WOMER, ROD",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2026-03-06"
+    },
+    {
+      "name": "RUDY, DEBORAH",
+      "state": "MI",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2026-03-11"
+    },
+    {
+      "name": "HUNT-SCOTT, SHANNON",
+      "state": "AZ",
+      "employer": "PRESIDENT",
+      "occupation": "THE SCOTT FOUNDATION",
+      "amount": 3500.0,
+      "date": "2026-03-26"
+    },
+    {
+      "name": "SCOTT, KEVIN",
+      "state": "CA",
+      "employer": "MICROSOFT",
+      "occupation": "CHIEF TECHNOLOGY OFFICER",
+      "amount": 3500.0,
+      "date": "2026-03-26"
+    },
+    {
+      "name": "YEE, MICHELLE",
+      "state": "CA",
+      "employer": "PALO ALTO UNIFIED SCHOOL DISTRICT",
+      "occupation": "TEACHER",
+      "amount": 3500.0,
+      "date": "2026-02-09"
+    },
+    {
+      "name": "YEE, MICHELLE",
+      "state": "CA",
+      "employer": "PALO ALTO UNIFIED SCHOOL DISTRICT",
+      "occupation": "TEACHER",
+      "amount": 3500.0,
+      "date": "2026-03-09"
+    },
+    {
+      "name": "PALOS GARZA, MARIO",
+      "state": "TX",
+      "employer": "PG RENTAL & LEASING LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 3500.0,
+      "date": "2026-02-23"
+    },
+    {
+      "name": "PALOS GARZA, MARIO",
+      "state": "TX",
+      "employer": "PG RENTAL & LEASING LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 3500.0,
+      "date": "2026-02-23"
+    },
+    {
+      "name": "PATTULLO, BETSY",
+      "state": "MA",
+      "employer": "N.A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "PERRY, CLAIRE E.",
+      "state": "CA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "PHILANTHROPIST",
+      "amount": 3500.0,
+      "date": "2025-12-30"
+    },
+    {
+      "name": "WOMER, ROD",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-06-28"
+    },
+    {
+      "name": "BEKENSTEIN, JOSH",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "CANTU, LETICIA",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 3500.0,
+      "date": "2025-06-05"
+    },
+    {
+      "name": "BENAVIDES, ARTURO T. JR",
+      "state": "TX",
+      "employer": "A.N.B. CATTLE CO., LTD.",
+      "occupation": "PARTNER",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "BEKENSTEIN, ANITA",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "BENAVIDES, LESLIE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ARTIST",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "CANTU, LETICIA",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 3500.0,
+      "date": "2025-06-06"
+    },
+    {
+      "name": "FITZSIMONS, MARY BLAIR C.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2025-05-06"
+    },
+    {
+      "name": "VALE, SAMUEL F.",
+      "state": "TX",
+      "employer": "STARR CAMARGO BRIDGE CO.",
+      "occupation": "PRESIDENT",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "BENAVIDES, ARTURO T. JR",
+      "state": "TX",
+      "employer": "A.N.B. CATTLE CO., LTD.",
+      "occupation": "PARTNER",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "FOWLER, AMY G.",
+      "state": "NY",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "AUTHOR",
+      "amount": 3500.0,
+      "date": "2025-05-06"
+    },
+    {
+      "name": "BENAVIDES, LESLIE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ARTIST",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "PFAUTCH, ROY",
+      "state": "MO",
+      "employer": "CIVIL SERVICE",
+      "occupation": "CONSULTANT",
+      "amount": 3500.0,
+      "date": "2025-06-27"
+    },
+    {
+      "name": "BEKENSTEIN, JOSH",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "FITZSIMONS, JOSEPH C.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2025-05-06"
+    },
+    {
+      "name": "HELM, NELSON JR",
+      "state": "KY",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2025-06-09"
+    },
+    {
+      "name": "BEKENSTEIN, ANITA",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "GARIBAY, RUBEN SR",
+      "state": "TX",
+      "employer": "SELECT DEDICATED SOLUTIONS",
+      "occupation": "MEMBER",
+      "amount": 3500.0,
+      "date": "2025-05-22"
+    },
+    {
+      "name": "RIOS, DOLORES G.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 3500.0,
+      "date": "2025-05-02"
+    },
+    {
+      "name": "KARPLUS, BARBARA",
+      "state": "CA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "TAX PRACTITIONER",
+      "amount": 3500.0,
+      "date": "2025-06-29"
+    },
+    {
+      "name": "STRYKER, JON",
+      "state": "NY",
+      "employer": "STREAM LINE CIRCLE LLC",
+      "occupation": "ARCHITECT",
+      "amount": 3500.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "STRYKER, JON",
+      "state": "NY",
+      "employer": "STREAM LINE CIRCLE LLC",
+      "occupation": "ARCHITECT",
+      "amount": 3500.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "TREVINO, JOSE C. III",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "BLUE, ALLEN",
+      "state": "CA",
+      "employer": "LINKEDIN",
+      "occupation": "CO-FOUNDER",
+      "amount": 3500.0,
+      "date": "2025-09-29"
+    },
+    {
+      "name": "STAPLE, HARISE",
+      "state": "CA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "PHYSICIAN",
+      "amount": 3500.0,
+      "date": "2025-09-27"
+    },
+    {
+      "name": "JORDAN, WAYNE",
+      "state": "CA",
+      "employer": "JREI",
+      "occupation": "OWNER",
+      "amount": 3500.0,
+      "date": "2025-08-06"
+    },
+    {
+      "name": "SILBEY, NEELY",
+      "state": "VA",
+      "employer": "BOOZ ALLEN HAMILTON",
+      "occupation": "POLICY DIRECTOR",
+      "amount": 3500.0,
+      "date": "2025-09-18"
+    },
+    {
+      "name": "GONZALEZ, JAMES L.",
+      "state": "TX",
+      "employer": "G&R STX INC.",
+      "occupation": "OWNER",
+      "amount": 3500.0,
+      "date": "2025-07-23"
+    },
+    {
+      "name": "MONTFORD, JOHN T.",
+      "state": "TX",
+      "employer": "JTM CONSULTING",
+      "occupation": "ATTORNEY",
+      "amount": 3500.0,
+      "date": "2025-08-13"
+    },
+    {
+      "name": "HARRIS, WILLIAM",
+      "state": "MA",
+      "employer": "MASS GENERAL HOSPITAL",
+      "occupation": "PHYSICIAN",
+      "amount": 3500.0,
+      "date": "2025-07-25"
+    },
+    {
+      "name": "YORKE, JAMES",
+      "state": "MD",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-09-20"
+    },
+    {
+      "name": "HARRIS, WILLIAM",
+      "state": "MA",
+      "employer": "MASS GENERAL HOSPITAL",
+      "occupation": "PHYSICIAN",
+      "amount": 3500.0,
+      "date": "2025-07-25"
+    },
+    {
+      "name": "DAWSON, JOHN",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-08-28"
+    },
+    {
+      "name": "DAWSON, JOHN",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-08-28"
+    },
+    {
+      "name": "EASTERN BAND OF CHEROKEE INDIANS",
+      "state": "NC",
+      "employer": "",
+      "occupation": "",
+      "amount": 3500.0,
+      "date": "2025-07-17"
+    },
+    {
+      "name": "KRAUS, KURT A.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE DEVELOPER",
+      "amount": 3500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "JACOBS, IRWIN MARK",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "PRINCE, DEREK",
+      "state": "TX",
+      "employer": "HMG HEALTHCARE",
+      "occupation": "EXECUTIVE",
+      "amount": 3500.0,
+      "date": "2025-07-01"
+    },
+    {
+      "name": "GUERRA, HERIBERTO JR.",
+      "state": "TX",
+      "employer": "AVANZAR INTERIOR TECHNOLOGIES",
+      "occupation": "CHAIRMAN & CEO",
+      "amount": 3300.0,
+      "date": "2026-02-02"
+    },
+    {
+      "name": "VALE, LINDA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 3300.0,
+      "date": "2025-01-10"
+    },
+    {
+      "name": "GUERRA, HERIBERTO JR.",
+      "state": "TX",
+      "employer": "AVANZAR INTERIOR TECHNOLOGIES",
+      "occupation": "CHAIRMAN/CEO",
+      "amount": 3300.0,
+      "date": "2025-03-28"
+    },
+    {
+      "name": "GARCIA, ARIANNA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 3300.0,
+      "date": "2025-03-21"
+    },
+    {
+      "name": "SILBEY, ALEXANDER T.",
+      "state": "VA",
+      "employer": "SILBEY STRATEGIES",
+      "occupation": "CONSULTANT",
+      "amount": 3300.0,
+      "date": "2025-01-03"
+    },
+    {
+      "name": "AMATO, CHARLES E.",
+      "state": "TX",
+      "employer": "SOUTHWEST BUSINESS CORPORATION",
+      "occupation": "CHAIRMAN/CO-FOUNDER",
+      "amount": 3300.0,
+      "date": "2025-02-12"
+    },
+    {
+      "name": "VALE, LINDA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 3300.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "VELA, FILEMON",
+      "state": "TX",
+      "employer": "AKIN GUMP",
+      "occupation": "ATTORNEY",
+      "amount": 3300.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "CONWAY, RONALD",
+      "state": "CA",
+      "employer": "SV ANGEL",
+      "occupation": "FOUNDER AND MANAGING PARTNER",
+      "amount": 3230.77,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "RAYNOR, GEOFFREY P.",
+      "state": "TX",
+      "employer": "Q INVESTMENTS",
+      "occupation": "INVESTOR",
+      "amount": 3125.0,
+      "date": "2026-02-24"
+    },
+    {
+      "name": "RAYNOR, MONTANA C.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 3125.0,
+      "date": "2026-02-24"
+    },
+    {
+      "name": "SILBEY, ALEXANDER T.",
+      "state": "VA",
+      "employer": "SILBEY STRATEGIES",
+      "occupation": "CONSULTANT",
+      "amount": 3100.0,
+      "date": "2025-01-17"
+    },
+    {
+      "name": "SHEENA, DANNY",
+      "state": "TX",
+      "employer": "THE SHEENA LAW FIRM",
+      "occupation": "ATTORNEY",
+      "amount": 3000.0,
+      "date": "2025-12-10"
+    },
+    {
+      "name": "PEREZ, HEBERTO",
+      "state": "TX",
+      "employer": "HEPECA LOGISTICS",
+      "occupation": "DIRECTOR",
+      "amount": 3000.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "VALE, ROBERT A. SR",
+      "state": "TX",
+      "employer": "STARR-CAMARGO BRIDGE CO.",
+      "occupation": "VICE PRESIDENT",
+      "amount": 3000.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "GARCIA, DOMINGO A.",
+      "state": "TX",
+      "employer": "LAW OFFICES OF DOMINGO GARCIA",
+      "occupation": "ATTORNEY",
+      "amount": 2900.0,
+      "date": "2025-03-25"
+    },
+    {
+      "name": "GARCIA, DOMINGO A.",
+      "state": "TX",
+      "employer": "LAW OFFICES OF DOMINGO GARCIA",
+      "occupation": "ATTORNEY",
+      "amount": 2900.0,
+      "date": "2025-07-01"
+    },
+    {
+      "name": "SNYDER, KIRA",
+      "state": "CA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "WRITER",
+      "amount": 2700.0,
+      "date": "2025-09-29"
+    },
+    {
+      "name": "ROGERS, DAVID O. JR.",
+      "state": "TX",
+      "employer": "VICTORIA TRADING CO.",
+      "occupation": "EXECUTIVE",
+      "amount": 2500.0,
+      "date": "2025-11-12"
+    },
+    {
+      "name": "FRANK, VIVIANA",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ARCHITECT",
+      "amount": 2500.0,
+      "date": "2025-12-23"
+    },
+    {
+      "name": "MARASCO, MICHAEL A. III",
+      "state": "TX",
+      "employer": "DIDAK",
+      "occupation": "OWNER",
+      "amount": 2500.0,
+      "date": "2025-12-23"
+    },
+    {
+      "name": "FALIC, SIMON",
+      "state": "FL",
+      "employer": "FALIC GROUP",
+      "occupation": "CHAIRMAN & COO",
+      "amount": 2500.0,
+      "date": "2025-12-30"
+    },
+    {
+      "name": "GARZA, RIGOBERTO",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 2500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "FALIC, JANA",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 2500.0,
+      "date": "2025-12-30"
+    },
+    {
+      "name": "KHALEDI, SHAHRAM",
+      "state": "TX",
+      "employer": "SHAHRAM KHALEDI GROUP",
+      "occupation": "REAL ESTATE",
+      "amount": 2500.0,
+      "date": "2025-12-17"
+    },
+    {
+      "name": "KNIGHT, AMY",
+      "state": "MD",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 2500.0,
+      "date": "2025-12-12"
+    },
+    {
+      "name": "RODRIGUEZ, RICARDO JR",
+      "state": "TX",
+      "employer": "SOLSTICE INTERNATIONAL",
+      "occupation": "MANAGER",
+      "amount": 2500.0,
+      "date": "2025-12-23"
+    },
+    {
+      "name": "CLAUSER, SARA",
+      "state": "MD",
+      "employer": "ARK STRATEGY LLC",
+      "occupation": "CO-OWNER",
+      "amount": 2500.0,
+      "date": "2026-01-21"
+    },
+    {
+      "name": "SUSSER, SAM L.",
+      "state": "TX",
+      "employer": "SUSSER BANK",
+      "occupation": "CHAIRMAN & CEO",
+      "amount": 2500.0,
+      "date": "2026-02-09"
+    },
+    {
+      "name": "KHALEDI, SHAHRAM",
+      "state": "TX",
+      "employer": "SKG HOMES LLC",
+      "occupation": "OWNER",
+      "amount": 2500.0,
+      "date": "2025-03-04"
+    },
+    {
+      "name": "FALCON, ANTONIO",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "PHYSICIAN",
+      "amount": 2500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "ANTELO, CRISTINA",
+      "state": "VA",
+      "employer": "FEROX STRATEGIES",
+      "occupation": "ATTORNEY",
+      "amount": 2500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "HERRERA, JORGE",
+      "state": "TX",
+      "employer": "THE HERRERA LAW FIRM",
+      "occupation": "ATTORNEY",
+      "amount": 2500.0,
+      "date": "2026-02-18"
+    },
+    {
+      "name": "MILLER, AMANDA",
+      "state": "VA",
+      "employer": "SHIFT5",
+      "occupation": "HEAD OF STRATEGIC OPERATIONS",
+      "amount": 2500.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "MONTFORD, DEBBIE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "PHILANTHROPIST",
+      "amount": 2500.0,
+      "date": "2026-03-01"
+    },
+    {
+      "name": "NEAL, BRENDAN",
+      "state": "MA",
+      "employer": "BRENDAN NEAL STRATEGIES",
+      "occupation": "OWNER",
+      "amount": 2500.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "RICE, WILLIAM T.",
+      "state": "VA",
+      "employer": "WESTMORELAND160 LLC",
+      "occupation": "CONSULTANT",
+      "amount": 2500.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "KAISER, PHILIP",
+      "state": "OK",
+      "employer": "SELF",
+      "occupation": "EVENT PRODUCTION",
+      "amount": 2500.0,
+      "date": "2026-03-23"
+    },
+    {
+      "name": "HINOJOSA, NOE J. JR",
+      "state": "TX",
+      "employer": "ESTRADA HINOJOSA & CO., INC.",
+      "occupation": "PRESIDENT",
+      "amount": 2500.0,
+      "date": "2025-05-13"
+    },
+    {
+      "name": "VALE-ORTIZ, JENNIFER L.",
+      "state": "TX",
+      "employer": "STARR-CAMARGO BRIDGE CO.",
+      "occupation": "EXECUTIVE",
+      "amount": 2500.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "GAYTAN, ERNESTO",
+      "state": "TX",
+      "employer": "SUPER TRANSPORT INTERNATIONAL",
+      "occupation": "PRESIDENT",
+      "amount": 2500.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "DURST, DOUGLAS",
+      "state": "NY",
+      "employer": "THE DURST ORGANIZATION LP",
+      "occupation": "CHAIRMAN",
+      "amount": 2083.33,
+      "date": "2025-12-29"
+    },
+    {
+      "name": "COHEN, HOWARD",
+      "state": "MA",
+      "employer": "BEACON",
+      "occupation": "EXECUTIVE",
+      "amount": 2083.33,
+      "date": "2026-02-01"
+    },
+    {
+      "name": "PRITZKER, JAY R.",
+      "state": "IL",
+      "employer": "THE PRITZKER GROUP",
+      "occupation": "MANAGING PARTNER",
+      "amount": 2080.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "AVERY, CHRISTOPHER",
+      "state": "NM",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 2000.0,
+      "date": "2025-10-23"
+    },
+    {
+      "name": "LOPEZ, DANIEL",
+      "state": "TX",
+      "employer": "DANNY'S RESTAURANT",
+      "occupation": "OWNER",
+      "amount": 2000.0,
+      "date": "2025-10-10"
+    },
+    {
+      "name": "SINEGAL, JIM",
+      "state": "WA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 2000.0,
+      "date": "2025-10-13"
+    },
+    {
+      "name": "GONZALEZ, SARALEE D.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 2000.0,
+      "date": "2025-12-12"
+    },
+    {
+      "name": "ADAMS, C. DAN",
+      "state": "SC",
+      "employer": "THE CAPITAL CORPORATION",
+      "occupation": "PRESIDENT/CEO",
+      "amount": 2000.0,
+      "date": "2025-12-26"
+    },
+    {
+      "name": "RODRIGUEZ, MARC A.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "LOBBYIST",
+      "amount": 2000.0,
+      "date": "2025-12-31"
+    },
+    {
+      "name": "WILSON, LORRAINE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 2000.0,
+      "date": "2025-01-24"
+    },
+    {
+      "name": "GONZALEZ, ERNEST",
+      "state": "TX",
+      "employer": "EMC STRATEGY GROUP",
+      "occupation": "CONSULTANT",
+      "amount": 2000.0,
+      "date": "2025-02-20"
+    },
+    {
+      "name": "GROOVER, NANCY M.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 2000.0,
+      "date": "2026-02-23"
+    },
+    {
+      "name": "HECKLER, ALEXANDER",
+      "state": "FL",
+      "employer": "LSN PARTNERS LLC/LSN LAW",
+      "occupation": "ATTORNEY",
+      "amount": 2000.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "BORJON, JOSE D.",
+      "state": "TX",
+      "employer": "AKIN GUMP",
+      "occupation": "SENIOR POLICY ADVISOR",
+      "amount": 2000.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "BEHNER, J. KEITH",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 2000.0,
+      "date": "2025-07-11"
+    },
+    {
+      "name": "STIEFEL, CATHERINE",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 2000.0,
+      "date": "2025-07-11"
+    },
+    {
+      "name": "GONZALEZ, JAMES L.",
+      "state": "TX",
+      "employer": "G&R STX INC.",
+      "occupation": "OWNER",
+      "amount": 2000.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "EARL, DAVID L.",
+      "state": "TX",
+      "employer": "EARL & ASSOCIATES PC",
+      "occupation": "ATTORNEY",
+      "amount": 2000.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "MARKS, HOWARD",
+      "state": "NY",
+      "employer": "OAKTREE CAPITAL MANAGEMENT",
+      "occupation": "CO-CHAIR",
+      "amount": 2000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "BORGES, FRANCISCO",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1923.08,
+      "date": "2025-09-28"
+    },
+    {
+      "name": "MALLETT, GEORGE",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1904.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "JOHNSON, DAVID",
+      "state": "NY",
+      "employer": "CALIGAN PARTNERS LP",
+      "occupation": "INVESTMENT MANAGER",
+      "amount": 1873.08,
+      "date": "2025-10-31"
+    },
+    {
+      "name": "WARREN, BENJAMIN",
+      "state": "TX",
+      "employer": "ITC TRADING COMPANY",
+      "occupation": "CEO",
+      "amount": 1800.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "STARR, DAVID",
+      "state": "TX",
+      "employer": "CLERMONT LLC",
+      "occupation": "PARTNER",
+      "amount": 1750.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "STARR, ARLENE",
+      "state": "TX",
+      "employer": "CLERMONT LLC",
+      "occupation": "PARTNER",
+      "amount": 1750.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "PUGH, WILLIAM",
+      "state": "MD",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1750.0,
+      "date": "2025-10-18"
+    },
+    {
+      "name": "MACON, JANE H.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1750.0,
+      "date": "2025-03-03"
+    },
+    {
+      "name": "STARR, DAVID",
+      "state": "TX",
+      "employer": "CLERMONT LLC",
+      "occupation": "PARTNER",
+      "amount": 1750.0,
+      "date": "2025-02-28"
+    },
+    {
+      "name": "STARR, ARLENE",
+      "state": "TX",
+      "employer": "CLERMONT LLC",
+      "occupation": "PARTNER",
+      "amount": 1750.0,
+      "date": "2025-02-28"
+    },
+    {
+      "name": "MACON, R. LAURENCE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1750.0,
+      "date": "2025-03-03"
+    },
+    {
+      "name": "MACON, R. LAURENCE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1750.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "MACON, R. LAURENCE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1750.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "PUGH, WILLIAM",
+      "state": "MD",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1750.0,
+      "date": "2025-05-12"
+    },
+    {
+      "name": "KAISER, GEORGE",
+      "state": "OK",
+      "employer": "GBK CORPORATION",
+      "occupation": "EXECUTIVE",
+      "amount": 1703.85,
+      "date": "2025-03-10"
+    },
+    {
+      "name": "DICKSON, ROBERT T.",
+      "state": "TX",
+      "employer": "FASKEN MANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 1668.5,
+      "date": "2025-05-19"
+    },
+    {
+      "name": "DICKSON, ROBERT T.",
+      "state": "TX",
+      "employer": "FASKEN MANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 1666.5,
+      "date": "2025-01-13"
+    },
+    {
+      "name": "GONZALEZ, JAMES L.",
+      "state": "TX",
+      "employer": "GONZALEZ AUTO PARTS LTD",
+      "occupation": "PRESIDENT AND CHIEF OPERATING OFFICER",
+      "amount": 1500.0,
+      "date": "2025-12-12"
+    },
+    {
+      "name": "KNIGHT, EDWARD S.",
+      "state": "MD",
+      "employer": "NASDAQ INC.",
+      "occupation": "VICE CHAIRMAN",
+      "amount": 1500.0,
+      "date": "2025-12-11"
+    },
+    {
+      "name": "EARL, DAVID L.",
+      "state": "TX",
+      "employer": "EARL & ASSOCIATES PC",
+      "occupation": "ATTORNEY",
+      "amount": 1500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GARZA, DAVID E.",
+      "state": "TX",
+      "employer": "NU TECH IMAGE",
+      "occupation": "OWNER",
+      "amount": 1500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GARZA, JUAN E.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESSMAN",
+      "amount": 1500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GARZA, GRISELL M.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 1500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GARZA, EDUARDO J.",
+      "state": "TX",
+      "employer": "UNITRADE GROUP",
+      "occupation": "EXECUTIVE",
+      "amount": 1500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "DUNSON, BRUCE",
+      "state": "TX",
+      "employer": "METRICA, INC.",
+      "occupation": "EXECUTIVE",
+      "amount": 1500.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "MARASCO, DANIELLE",
+      "state": "TX",
+      "employer": "AED ASSOCIATES",
+      "occupation": "MCDONALD'S FRANCHISEE OWNER",
+      "amount": 1500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "CAVAZOS, RONNIE",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "RESNEK, PAUL",
+      "state": "TX",
+      "employer": "CHURCHILL FORGE PROPERTIES",
+      "occupation": "REAL ESTATE AGENT",
+      "amount": 1500.0,
+      "date": "2026-03-12"
+    },
+    {
+      "name": "ANCIRA, APRIL",
+      "state": "TX",
+      "employer": "ANCIRA AUTO GROUP",
+      "occupation": "VICE PRESIDENT",
+      "amount": 1500.0,
+      "date": "2025-05-03"
+    },
+    {
+      "name": "GUTIERREZ, HUGO A. JR",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "GUTIERREZ, HUGO A. JR",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "AGUILLEN, DEAN",
+      "state": "DC",
+      "employer": "OGILVY GOVERNMENT RELATIONS",
+      "occupation": "SENIOR VICE PRESIDENT",
+      "amount": 1500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "MALDONADO, RICKY",
+      "state": "DC",
+      "employer": "MALDONADO & ASSOCIATES",
+      "occupation": "CONSULTANT",
+      "amount": 1500.0,
+      "date": "2025-05-06"
+    },
+    {
+      "name": "MERCADO, MOSES",
+      "state": "DC",
+      "employer": "OGILVY GOVERNMENT RELATIONS",
+      "occupation": "ATTORNEY",
+      "amount": 1500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "CRUZ, JUAN JOSE",
+      "state": "TX",
+      "employer": "ESCAMILLA & PONECK INC.",
+      "occupation": "ATTORNEY",
+      "amount": 1500.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "EARL, DAVID L.",
+      "state": "TX",
+      "employer": "EARL & ASSOCIATES PC",
+      "occupation": "ATTORNEY",
+      "amount": 1500.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "PRINCE, DEREK",
+      "state": "TX",
+      "employer": "HMG HEALTHCARE",
+      "occupation": "EXECUTIVE",
+      "amount": 1500.0,
+      "date": "2025-07-01"
+    },
+    {
+      "name": "PEELER, DAVID",
+      "state": "MA",
+      "employer": "BERKSHIRE PARTNERS",
+      "occupation": "SENIOR ADVISOR",
+      "amount": 1142.86,
+      "date": "2026-02-22"
+    },
+    {
+      "name": "KILLAM, ADRIAN K.",
+      "state": "TX",
+      "employer": "KILLAM DEVELOPMENT LTD.",
+      "occupation": "LIMITED PARTNER",
+      "amount": 1099.89,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "DILEO, TRACY K.",
+      "state": "TX",
+      "employer": "KILLAM DEVELOPMENT LTD.",
+      "occupation": "LIMITED PARTNER",
+      "amount": 1099.89,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "KILLAM, ADRIAN K.",
+      "state": "TX",
+      "employer": "KILLAM DEVELOPMENT LTD.",
+      "occupation": "LIMITED PARTNER",
+      "amount": 1099.89,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "DILEO, TRACY K.",
+      "state": "TX",
+      "employer": "KILLAM DEVELOPMENT LTD.",
+      "occupation": "LIMITED PARTNER",
+      "amount": 1099.89,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "KILLAM, DAVID W.",
+      "state": "TX",
+      "employer": "KILLAM DEVELOPMENT LTD.",
+      "occupation": "LIMITED PARTNER",
+      "amount": 1067.22,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "KILLAM, DAVID W.",
+      "state": "TX",
+      "employer": "KILLAM DEVELOPMENT LTD.",
+      "occupation": "LIMITED PARTNER",
+      "amount": 1067.22,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "HINOJOSA, NOE J. JR",
+      "state": "TX",
+      "employer": "TRB",
+      "occupation": "BANKER",
+      "amount": 1000.0,
+      "date": "2025-12-29"
+    },
+    {
+      "name": "BECKELHYMER, GEORGE M.",
+      "state": "TX",
+      "employer": "DEL VALLE GROUP INC.",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2025-12-26"
+    },
+    {
+      "name": "MARASCO, MICHAEL A. III",
+      "state": "TX",
+      "employer": "DIDAK",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2025-10-27"
+    },
+    {
+      "name": "MORAN, JIM",
+      "state": "VA",
+      "employer": "MGS",
+      "occupation": "PRESIDENT",
+      "amount": 1000.0,
+      "date": "2025-12-10"
+    },
+    {
+      "name": "PADILLA, MANUEL",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "KHALEDI, SHAHRAM",
+      "state": "TX",
+      "employer": "SHAHRAM KHALEDI GROUP",
+      "occupation": "REAL ESTATE",
+      "amount": 1000.0,
+      "date": "2025-12-17"
+    },
+    {
+      "name": "TREVINO, TINA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-12-23"
+    },
+    {
+      "name": "HOLZMAN, LEONARD",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-12-17"
+    },
+    {
+      "name": "RAYMOND, RICHARD",
+      "state": "TX",
+      "employer": "STATE OF TEXAS",
+      "occupation": "STATE REPRESENTATIVE",
+      "amount": 1000.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "FERNANDEZ, CARLOS A.",
+      "state": "TX",
+      "employer": "TRANSPORTES DE CARGA FEMA",
+      "occupation": "CUSTOMS BROKER",
+      "amount": 1000.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "PUIG, BERTHA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 1000.0,
+      "date": "2025-10-29"
+    },
+    {
+      "name": "GILBERT, EDWARD",
+      "state": "WA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-11-05"
+    },
+    {
+      "name": "BROWN, JED A.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE DEVELOPER",
+      "amount": 1000.0,
+      "date": "2025-12-11"
+    },
+    {
+      "name": "LOZANO MARTINEZ, PEDRO F.",
+      "state": "TX",
+      "employer": "LOZANO MORALES PROPERTIES",
+      "occupation": "MEMBER",
+      "amount": 1000.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "CLEVELAND, ERIC",
+      "state": "TX",
+      "employer": "U.S. DEPARTMENT OF THE NAVY",
+      "occupation": "REACTOR OPERATOR",
+      "amount": 1000.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "MILLER, BARRY",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-12-18"
+    },
+    {
+      "name": "STRAWBRIDGE, SEAN",
+      "state": "TX",
+      "employer": "VOYAGER ENERGY PARTNERS",
+      "occupation": "INVESTOR",
+      "amount": 1000.0,
+      "date": "2025-12-05"
+    },
+    {
+      "name": "HERNANDEZ, HENRY",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-10-29"
+    },
+    {
+      "name": "HORNBERGER, WILLIAM",
+      "state": "TX",
+      "employer": "JACKSON WALKER LLP",
+      "occupation": "PARTNER",
+      "amount": 1000.0,
+      "date": "2025-12-12"
+    },
+    {
+      "name": "BRADBURY, DARCY",
+      "state": "NY",
+      "employer": "THE D. E. SHAW GROUP",
+      "occupation": "FINANCE",
+      "amount": 1000.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "SERNA, BALTAZAR R. JR",
+      "state": "TX",
+      "employer": "SERNA AND SERNA",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-01-20"
+    },
+    {
+      "name": "CLAUSER, SARA",
+      "state": "MD",
+      "employer": "ARK STRATEGY LLC",
+      "occupation": "CO-OWNER",
+      "amount": 1000.0,
+      "date": "2026-01-21"
+    },
+    {
+      "name": "JOHNSON, BRIAN",
+      "state": "VA",
+      "employer": "VETERANS GUARDIAN VA CLAIM CONSULTING",
+      "occupation": "EXECUTIVE VICE PRESIDENT",
+      "amount": 1000.0,
+      "date": "2026-02-08"
+    },
+    {
+      "name": "TREANOR, CHRIS",
+      "state": "VA",
+      "employer": "AKIN GUMP",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-02-06"
+    },
+    {
+      "name": "GARZA, DAVID E.",
+      "state": "TX",
+      "employer": "NU TECH IMAGE",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "SPAMER, JOAQUIN M.",
+      "state": "TX",
+      "employer": "COMMODITIES INTEGRATED LOGISTICS",
+      "occupation": "PRESIDENT",
+      "amount": 1000.0,
+      "date": "2025-02-19"
+    },
+    {
+      "name": "RICHARDSON, TIMOTHY L.",
+      "state": "MD",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "SERNA, BALTAZAR R. JR",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "VASWANI, SHASHI G.",
+      "state": "TX",
+      "employer": "ABOUT TIME LTD",
+      "occupation": "REAL ESTATE",
+      "amount": 1000.0,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "GARZA, JUAN E.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESSMAN",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "CORTE, FRANK J. JR.",
+      "state": "TX",
+      "employer": "CAPITOL CHAIRMAN'S ALLIANCE LLC",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GARZA, GRISELL M.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "BROWN, JED A.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE DEVELOPER",
+      "amount": 1000.0,
+      "date": "2025-03-28"
+    },
+    {
+      "name": "MARTENS, CHARLES G.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE INVESTMENTS",
+      "amount": 1000.0,
+      "date": "2025-03-28"
+    },
+    {
+      "name": "RHOADS, BARRY",
+      "state": "VA",
+      "employer": "CASSIDY & ASSOCIATES",
+      "occupation": "CHAIRMAN",
+      "amount": 1000.0,
+      "date": "2025-01-15"
+    },
+    {
+      "name": "GUTIERREZ, HUGO A. JR",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "HINOJOSA, NOE J. JR",
+      "state": "TX",
+      "employer": "ESTRADA HINOJOSA",
+      "occupation": "PRESIDENT",
+      "amount": 1000.0,
+      "date": "2025-01-31"
+    },
+    {
+      "name": "SNYDER, EDWARD C. III",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GUTIERREZ, HUGO A. JR",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-01-10"
+    },
+    {
+      "name": "BONILLA, SHERYL",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-02-17"
+    },
+    {
+      "name": "GARZA, EDUARDO J.",
+      "state": "TX",
+      "employer": "UNITRADE GROUP",
+      "occupation": "EXECUTIVE",
+      "amount": 1000.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "BERNSTEIN, GENE",
+      "state": "NY",
+      "employer": "NORTHVILLE INDUSTRIES",
+      "occupation": "EXECUTIVE",
+      "amount": 1000.0,
+      "date": "2026-03-26"
+    },
+    {
+      "name": "CORTE, FRANK J. JR.",
+      "state": "TX",
+      "employer": "CAPITOL CHAIRMAN'S ALLIANCE LLC",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "CORTE, FRANK J. JR.",
+      "state": "TX",
+      "employer": "CAPITOL CHAIRMAN'S ALLIANCE LLC",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "FLECKNER, KAREN",
+      "state": "WA",
+      "employer": "ARTESIO, INC.",
+      "occupation": "DIRECTOR",
+      "amount": 1000.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "HANCE, KENT R.",
+      "state": "TX",
+      "employer": "HANCE SCARBOROUGH LLP",
+      "occupation": "PRINCIPAL",
+      "amount": 1000.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "INGRAHAM, JAMES",
+      "state": "TX",
+      "employer": "SAGE AUTOMATION, INC.",
+      "occupation": "SOFTWARE DEVELOPER",
+      "amount": 1000.0,
+      "date": "2026-02-24"
+    },
+    {
+      "name": "INGRAHAM, STEPHEN",
+      "state": "TX",
+      "employer": "I-CORP",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2026-02-24"
+    },
+    {
+      "name": "LINK, JAMES W.",
+      "state": "TX",
+      "employer": "GVL COMPANY",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2026-02-23"
+    },
+    {
+      "name": "MACON, R. LAURENCE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "MIRZA, CLAUDIA P.",
+      "state": "DC",
+      "employer": "USHBC",
+      "occupation": "DIRECTOR",
+      "amount": 1000.0,
+      "date": "2026-03-26"
+    },
+    {
+      "name": "PRICHARD, DAVID M.",
+      "state": "TX",
+      "employer": "PRICHARD HAWKINS MCFARLAND",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "RIOS, ROLANDO L.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "SERNA, BALTAZAR R. JR",
+      "state": "TX",
+      "employer": "SERNA AND SERNA",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "WARREN, BENJAMIN",
+      "state": "TX",
+      "employer": "ITC TRADING COMPANY",
+      "occupation": "CEO",
+      "amount": 1000.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "ABRAHAM, JOJU",
+      "state": "TX",
+      "employer": "GLOBAL WET",
+      "occupation": "ENGINEER",
+      "amount": 1000.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "ANCIRA, APRIL",
+      "state": "TX",
+      "employer": "ANCIRA",
+      "occupation": "VICE PRESIDENT",
+      "amount": 1000.0,
+      "date": "2026-03-30"
+    },
+    {
+      "name": "BORJON, JOSE D.",
+      "state": "TX",
+      "employer": "AKIN GUMP",
+      "occupation": "SENIOR POLICY ADVISOR",
+      "amount": 1000.0,
+      "date": "2026-03-12"
+    },
+    {
+      "name": "COGEN, DOUGLAS",
+      "state": "CA",
+      "employer": "FENWICK & WEST LLP",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-03-09"
+    },
+    {
+      "name": "COVARRUBIAS, DAVID T.",
+      "state": "TX",
+      "employer": "STRUCTURAL ENGINEERING ASSOCIATES, INC",
+      "occupation": "STRUCTURAL ENGINEER",
+      "amount": 1000.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "DELAY, RANDOLPH",
+      "state": "TX",
+      "employer": "PPSCI",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "DUNSON, BRUCE",
+      "state": "TX",
+      "employer": "METRICA, INC.",
+      "occupation": "EXECUTIVE",
+      "amount": 1000.0,
+      "date": "2026-02-13"
+    },
+    {
+      "name": "GOMEZ, EFRAIN",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSTRUCTION",
+      "amount": 1000.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "KOVLER, PETER",
+      "state": "DC",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2026-03-06"
+    },
+    {
+      "name": "MARTIN, ALBERT",
+      "state": "TX",
+      "employer": "SWISHER MARTIN",
+      "occupation": "REALTOR",
+      "amount": 1000.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "MARTIN, ALBERT",
+      "state": "TX",
+      "employer": "SWISHER MARTIN",
+      "occupation": "REALTOR",
+      "amount": 1000.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "MARTIN, ALBERT",
+      "state": "TX",
+      "employer": "SWISHER MARTIN",
+      "occupation": "REALTOR",
+      "amount": 1000.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "PALOMAREZ, JAVIER",
+      "state": "TX",
+      "employer": "UNITED STATES HISPANIC BUSINESS COUNCI",
+      "occupation": "PRESIDENT & CEO",
+      "amount": 1000.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "PEINADO, FRANK",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "GC",
+      "amount": 1000.0,
+      "date": "2026-03-23"
+    },
+    {
+      "name": "PETTERSON, AL",
+      "state": "CA",
+      "employer": "NVIDIA",
+      "occupation": "SOFTWARE ENGINEER",
+      "amount": 1000.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "RODRIGUEZ, MARC A.",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "LOBBYIST",
+      "amount": 1000.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "SOMMERS, MICHAEL",
+      "state": "VA",
+      "employer": "AMERICAN PETROLEUM INSTITUTE",
+      "occupation": "PRESIDENT AND CEO",
+      "amount": 1000.0,
+      "date": "2026-02-11"
+    },
+    {
+      "name": "SULLIVAN, JAMES E. JR.",
+      "state": "TX",
+      "employer": "SULLIVAN COMMERCIAL REALTY",
+      "occupation": "REAL ESTATE",
+      "amount": 1000.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "TRANT, MATT",
+      "state": "DC",
+      "employer": "THE NATIONAL GROUP LLP",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2026-03-05"
+    },
+    {
+      "name": "WALKER, JOHN P.",
+      "state": "TX",
+      "employer": "STAR SHUTTLE",
+      "occupation": "CEO",
+      "amount": 1000.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "FAUST, HALLEY",
+      "state": "NM",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2026-03-06"
+    },
+    {
+      "name": "MCQUILLAN, JOHN",
+      "state": "MA",
+      "employer": "TEI",
+      "occupation": "EXECUTIVE",
+      "amount": 1000.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "ARMSTRONG, LARA",
+      "state": "TX",
+      "employer": "AMUSEMENT MIDWAY PROVIDERS",
+      "occupation": "CARNIVAL",
+      "amount": 1000.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "SUSSER, SAM L.",
+      "state": "TX",
+      "employer": "SUSSER BANK",
+      "occupation": "CHAIRMAN & CEO",
+      "amount": 1000.0,
+      "date": "2025-06-17"
+    },
+    {
+      "name": "LOPEZ, RICHARD",
+      "state": "DC",
+      "employer": "FORBES TATE PARTNERS",
+      "occupation": "SENIOR VICE PRESIDENT",
+      "amount": 1000.0,
+      "date": "2025-05-12"
+    },
+    {
+      "name": "GROOVER, NANCY M.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-06-27"
+    },
+    {
+      "name": "DESTEFANO, BOB",
+      "state": "NY",
+      "employer": "CARNIVAL PAYROLL OF PENNSYLVANIA",
+      "occupation": "AMUSEMENT",
+      "amount": 1000.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "HINOJOSA, MARCIA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-06-28"
+    },
+    {
+      "name": "MENDOZA, ERICK",
+      "state": "TX",
+      "employer": "UNITEDLINK",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 1000.0,
+      "date": "2025-05-15"
+    },
+    {
+      "name": "EVANS, ERIN",
+      "state": "MO",
+      "employer": "EVANS UNITED SHOWS",
+      "occupation": "AMUSEMENT AND CARNIVAL",
+      "amount": 1000.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "RHOADS, BARRY",
+      "state": "VA",
+      "employer": "CASSIDY & ASSOCIATES",
+      "occupation": "CHAIRMAN",
+      "amount": 1000.0,
+      "date": "2025-04-28"
+    },
+    {
+      "name": "GARCIA, DAVID",
+      "state": "TX",
+      "employer": "SWK",
+      "occupation": "GOVERNMENT AFFAIRS",
+      "amount": 1000.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "JUDKINS, JAMES",
+      "state": "TX",
+      "employer": "JKJ WORKFORCE AGENCY INC.",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "SCHLUETER, STAN",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-04-14"
+    },
+    {
+      "name": "WALKER, JOHN P.",
+      "state": "TX",
+      "employer": "STAR SHUTTLE",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 1000.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "MASON, HARRY",
+      "state": "CA",
+      "employer": "BRASS RING AMUSEMENTS",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "PORE, DAVID D.",
+      "state": "VA",
+      "employer": "HANCE SCARBOROUGH LLP",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2025-05-06"
+    },
+    {
+      "name": "GALAN, ANTHONY",
+      "state": "TX",
+      "employer": "TEXAS DIGESTIVE SPECIALIST",
+      "occupation": "PHYSICIAN",
+      "amount": 1000.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "MEYERS, LARRY D.",
+      "state": "DC",
+      "employer": "MEYERS & ASSOCIATES",
+      "occupation": "PRESIDENT",
+      "amount": 1000.0,
+      "date": "2025-06-03"
+    },
+    {
+      "name": "PUGH, ROBERT",
+      "state": "FL",
+      "employer": "PUGHS CONCESSIONS",
+      "occupation": "AMUSEMENT BUSINESS",
+      "amount": 1000.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "VASWANI, SHASHI G.",
+      "state": "TX",
+      "employer": "ABOUT TIME LTD",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2025-06-08"
+    },
+    {
+      "name": "BARRON, DAVID H.",
+      "state": "SC",
+      "employer": "ICCF GROUP",
+      "occupation": "CHAIRMAN",
+      "amount": 1000.0,
+      "date": "2025-05-19"
+    },
+    {
+      "name": "SCHOENDIENST, LORELEI",
+      "state": "FL",
+      "employer": "LUEHRS IDEAL RIDES",
+      "occupation": "CO-OWNER",
+      "amount": 1000.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "ZAITSHIK, FRANK",
+      "state": "FL",
+      "employer": "WADE SHOWS INC.",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 1000.0,
+      "date": "2025-06-05"
+    },
+    {
+      "name": "SULLIVAN, JAMES E. JR.",
+      "state": "TX",
+      "employer": "J.SULLCO INC.",
+      "occupation": "REAL ESTATE",
+      "amount": 1000.0,
+      "date": "2025-05-07"
+    },
+    {
+      "name": "VALE, JENNIFER",
+      "state": "TX",
+      "employer": "STARR-CAMARGO BRIDGE CO.",
+      "occupation": "EXECUTIVE",
+      "amount": 1000.0,
+      "date": "2025-06-10"
+    },
+    {
+      "name": "SUSSER, SAM L.",
+      "state": "TX",
+      "employer": "SUSSER BANK",
+      "occupation": "CHAIRMAN & CEO",
+      "amount": 1000.0,
+      "date": "2025-06-17"
+    },
+    {
+      "name": "AGUILAR, JORGE",
+      "state": "DC",
+      "employer": "THEGROUP DC",
+      "occupation": "PRINCIPAL",
+      "amount": 1000.0,
+      "date": "2025-05-15"
+    },
+    {
+      "name": "SNYDER, EDWARD C. III",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "MARTINEZ, MERCURIO JR.",
+      "state": "TX",
+      "employer": "TAMIU",
+      "occupation": "DIRECTOR",
+      "amount": 1000.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "COVARRUBIAS, DAVID",
+      "state": "TX",
+      "employer": "SEA - A JMT DIVISION",
+      "occupation": "STRUCTURAL ENGINEER",
+      "amount": 1000.0,
+      "date": "2025-07-14"
+    },
+    {
+      "name": "PUIG, BERTHA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 1000.0,
+      "date": "2025-07-17"
+    },
+    {
+      "name": "PRICHARD, DAVID M.",
+      "state": "TX",
+      "employer": "PRICHARD HAWKINS MCFARLAND",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "BROWN, JED A.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE DEVELOPER",
+      "amount": 1000.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "YOKUBAITIS, R.B.",
+      "state": "TX",
+      "employer": "GIGANEWS",
+      "occupation": "CEO",
+      "amount": 1000.0,
+      "date": "2025-07-25"
+    },
+    {
+      "name": "PINA, HUMBERTO JR.",
+      "state": "TX",
+      "employer": "LIBRADO PINA INC.",
+      "occupation": "CUSTOMS BROKER",
+      "amount": 1000.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "CORTE, FRANK J. JR.",
+      "state": "TX",
+      "employer": "CAPITOL CHAIRMAN'S ALLIANCE LLC",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "DE ROSA, FRANCIS",
+      "state": "CA",
+      "employer": "DEROSA ADVISORS",
+      "occupation": "ENERGY CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-09-01"
+    },
+    {
+      "name": "DOMINGUEZ, ARTURO",
+      "state": "TX",
+      "employer": "A BROKERAGE FIRM",
+      "occupation": "BROKER",
+      "amount": 1000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "MARSHALL, ROBERT",
+      "state": "TX",
+      "employer": "ROBERT MARSHALL CONSTRUCTION",
+      "occupation": "OWNER",
+      "amount": 1000.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "SCHLUETER, STAN",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "RODRIGUEZ, RICARDO JR",
+      "state": "TX",
+      "employer": "SOLSTICE INTERNATIONAL CONSULTING LC",
+      "occupation": "MANAGER",
+      "amount": 1000.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "BENAVIDES, LUIS",
+      "state": "TX",
+      "employer": "ALPINE",
+      "occupation": "PHYSICIAN",
+      "amount": 1000.0,
+      "date": "2025-08-08"
+    },
+    {
+      "name": "TRANT, MATT",
+      "state": "DC",
+      "employer": "THE NATIONAL GROUP",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-07-22"
+    },
+    {
+      "name": "BRADBURY, DARCY",
+      "state": "NY",
+      "employer": "THE D. E. SHAW GROUP",
+      "occupation": "FINANCE",
+      "amount": 1000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "BECKELHYMER, JOHN D.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "INVESTOR",
+      "amount": 1000.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "BARLEY, MARY",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "HOLZMAN, LEONARD",
+      "state": "TX",
+      "employer": "LIVERPOOL NT",
+      "occupation": "MANAGER",
+      "amount": 1000.0,
+      "date": "2025-08-07"
+    },
+    {
+      "name": "FALLEK, LARRY",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 1000.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "GONZALEZ, ERNIE",
+      "state": "TX",
+      "employer": "EMC STRATEGY GROUP LLC",
+      "occupation": "LOBBYIST",
+      "amount": 1000.0,
+      "date": "2025-09-24"
+    },
+    {
+      "name": "MARTENS, CHARLES G.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE INVESTOR",
+      "amount": 1000.0,
+      "date": "2025-08-08"
+    },
+    {
+      "name": "MACON, R. LAURENCE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 1000.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "MILLER, WILLIAM J.",
+      "state": "TX",
+      "employer": "HILLCO PARTNERS",
+      "occupation": "CONSULTANT",
+      "amount": 1000.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "DICKSON, ROGER",
+      "state": "TX",
+      "employer": "FASKENMANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 915.75,
+      "date": "2025-05-19"
+    },
+    {
+      "name": "DICKSON, SCOTT",
+      "state": "TX",
+      "employer": "FASKENMANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 915.75,
+      "date": "2025-05-19"
+    },
+    {
+      "name": "MUNGER, PHILIP",
+      "state": "NY",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "INVESTOR",
+      "amount": 875.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "DICKSON, ROGER",
+      "state": "TX",
+      "employer": "FASKENMANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 816.75,
+      "date": "2025-01-13"
+    },
+    {
+      "name": "DICKSON, SCOTT",
+      "state": "TX",
+      "employer": "FASKENMANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 816.75,
+      "date": "2025-01-13"
+    },
+    {
+      "name": "MARTINEZ, EDGAR O.",
+      "state": "TX",
+      "employer": "GRUPO CARGOQUIN",
+      "occupation": "DIRECTOR",
+      "amount": 750.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "VILLARREAL, RIGOBERTO",
+      "state": "TX",
+      "employer": "MCALLEN-HIDALGO AND ANZALDUAS INTERNAT",
+      "occupation": "SUPERINTENDENT",
+      "amount": 750.0,
+      "date": "2025-05-02"
+    },
+    {
+      "name": "SERNA, BALTAZAR R. JR",
+      "state": "TX",
+      "employer": "SERNA AND SERNA",
+      "occupation": "ATTORNEY",
+      "amount": 750.0,
+      "date": "2025-06-06"
+    },
+    {
+      "name": "HOROWITZ, BEN",
+      "state": "NV",
+      "employer": "ANDREESSEN HOROWITZ",
+      "occupation": "CO-FOUNDER & GENERAL PARTNER",
+      "amount": 750.0,
+      "date": "2025-09-24"
+    },
+    {
+      "name": "DIXON, CHRISTOPHER",
+      "state": "CA",
+      "employer": "ANDREESSEN HOROWITZ",
+      "occupation": "GENERAL PARTNER",
+      "amount": 750.0,
+      "date": "2025-09-24"
+    },
+    {
+      "name": "SERNA, BALTAZAR R. JR",
+      "state": "TX",
+      "employer": "SERNA & SERNA",
+      "occupation": "ATTORNEY",
+      "amount": 715.4,
+      "date": "2025-08-08"
+    },
+    {
+      "name": "GARCIA, DOMINGO A.",
+      "state": "TX",
+      "employer": "LAW OFFICES OF DOMINGO GARCIA",
+      "occupation": "ATTORNEY",
+      "amount": 600.0,
+      "date": "2025-07-01"
+    },
+    {
+      "name": "LUNDGREN, WALLACE L. JR",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 578.08,
+      "date": "2025-09-24"
+    },
+    {
+      "name": "DAGBJARTSSON, EGGERT",
+      "state": "MA",
+      "employer": "EQUITY RESOURCE INVESTMENT LLC",
+      "occupation": "MANAGING DIRECTOR",
+      "amount": 520.83,
+      "date": "2026-03-08"
+    },
+    {
+      "name": "MEYER, EUGENE B.",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 520.83,
+      "date": "2026-03-12"
+    },
+    {
+      "name": "NASTA, KARLA Y.",
+      "state": "TX",
+      "employer": "MARY HELP OF CHRISTIANS SCHOOL",
+      "occupation": "TEACHER",
+      "amount": 500.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "MARTENS, CHARLES G.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE INVESTOR",
+      "amount": 500.0,
+      "date": "2025-12-03"
+    },
+    {
+      "name": "SQUIRES, WAYNE M.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-12-31"
+    },
+    {
+      "name": "MAY, BRIAN J.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "BRUNI, ROCKY",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-10-28"
+    },
+    {
+      "name": "BONILLA, HENRY",
+      "state": "TX",
+      "employer": "THE NORMANDY GROUP",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-12-10"
+    },
+    {
+      "name": "DURRER, AUSTIN",
+      "state": "DC",
+      "employer": "MORAN GLOBAL STRATEGIES",
+      "occupation": "GOVERNMENT RELATIONS",
+      "amount": 500.0,
+      "date": "2025-12-11"
+    },
+    {
+      "name": "CLAUSER, SARA",
+      "state": "MD",
+      "employer": "ARK STRATEGY LLC",
+      "occupation": "CO-OWNER",
+      "amount": 500.0,
+      "date": "2025-11-19"
+    },
+    {
+      "name": "NEAL, BRENDAN",
+      "state": "DC",
+      "employer": "NEAL STRATEGIES",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-12-09"
+    },
+    {
+      "name": "OLIVER, THOMAS",
+      "state": "GA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-10-12"
+    },
+    {
+      "name": "CASILLAS, SANDRA L.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "HODGSON, MARLEY",
+      "state": "CO",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-11-19"
+    },
+    {
+      "name": "ENGEL, DAVID P.",
+      "state": "TX",
+      "employer": "ENGEL & ASSOCIATES, LLC",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-12-23"
+    },
+    {
+      "name": "RICHARDSON, TIMOTHY L.",
+      "state": "MD",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-12-11"
+    },
+    {
+      "name": "STILL, TINA",
+      "state": "MO",
+      "employer": "JMJ LAND COMPANY, LLC",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "STILL, MIKE",
+      "state": "MO",
+      "employer": "JMJ LAND COMPANY, LLC",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "SIMPSON, ROBERT A.",
+      "state": "TX",
+      "employer": "EL BUFALO PAWN",
+      "occupation": "PAWNBROKER",
+      "amount": 500.0,
+      "date": "2025-12-18"
+    },
+    {
+      "name": "EPSTEIN, CLAYTON S.",
+      "state": "TX",
+      "employer": "DR. IKE'S HOME CENTERS",
+      "occupation": "VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-12-05"
+    },
+    {
+      "name": "CIGARROA, JORGE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESS OWNER",
+      "amount": 500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "GONZALEZ, JOSE D.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CUSTOMS BROKER",
+      "amount": 500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "HINOJOSA, OSCAR",
+      "state": "TX",
+      "employer": "O. ENRIQUE HINOJOSA PENA AGENTE ADUANA",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "AGUILAR, JORGE",
+      "state": "DC",
+      "employer": "THEGROUP",
+      "occupation": "PRINCIPAL",
+      "amount": 500.0,
+      "date": "2025-12-03"
+    },
+    {
+      "name": "COHEN, GARY",
+      "state": "FL",
+      "employer": "GROSSMAN ROTH P.A.",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2026-01-10"
+    },
+    {
+      "name": "FANJUL, ANDRES",
+      "state": "FL",
+      "employer": "FLORIDA CRYSTALS CORPORATION",
+      "occupation": "PRESIDENT OKEELANTA",
+      "amount": 500.0,
+      "date": "2026-01-14"
+    },
+    {
+      "name": "HARO, STEVEN",
+      "state": "VA",
+      "employer": "HARO SOLUTIONS",
+      "occupation": "MANAGING PARTNER",
+      "amount": 500.0,
+      "date": "2026-01-07"
+    },
+    {
+      "name": "LANGSEN, BRUCE",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-01-14"
+    },
+    {
+      "name": "LEHMAN, WILLIAM",
+      "state": "FL",
+      "employer": "LEHMAN DEALERSHIPS",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2026-01-12"
+    },
+    {
+      "name": "MOSEDALE, LAURA",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-01-12"
+    },
+    {
+      "name": "FERNANDEZ, LUIS",
+      "state": "FL",
+      "employer": "ASR GROUP",
+      "occupation": "PRESIDENT",
+      "amount": 500.0,
+      "date": "2026-01-19"
+    },
+    {
+      "name": "FRIEDMAN, GARY",
+      "state": "NY",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2026-01-21"
+    },
+    {
+      "name": "RODRIGUEZ, RUDY",
+      "state": "TX",
+      "employer": "R4",
+      "occupation": "PRESIDENT",
+      "amount": 500.0,
+      "date": "2026-02-05"
+    },
+    {
+      "name": "CANALES, CARLOS",
+      "state": "TX",
+      "employer": "TRANCASA USA INC.",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 500.0,
+      "date": "2025-02-17"
+    },
+    {
+      "name": "GONZALES, JOHN",
+      "state": "TX",
+      "employer": "U.S. CHAMBER OF COMMERCE",
+      "occupation": "EXECUTIVE DIRECTOR",
+      "amount": 500.0,
+      "date": "2025-02-19"
+    },
+    {
+      "name": "GARZA, EDUARDO A.",
+      "state": "TX",
+      "employer": "UNI-TRADE FOWARDING",
+      "occupation": "CO-OWNER",
+      "amount": 500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "KAHN, THOMAS",
+      "state": "DC",
+      "employer": "AMERICAN UNIVERSITY",
+      "occupation": "PROFESSOR",
+      "amount": 500.0,
+      "date": "2025-01-09"
+    },
+    {
+      "name": "BAKER, GEORGE D.",
+      "state": "MD",
+      "employer": "WILLIAMS & JENSEN PLLC",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2025-01-24"
+    },
+    {
+      "name": "BAKER, GEORGE D.",
+      "state": "MD",
+      "employer": "WILLIAMS & JENSEN PLLC",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2025-03-21"
+    },
+    {
+      "name": "RHOADS, BARRY",
+      "state": "VA",
+      "employer": "CASSIDY & ASSOCIATES",
+      "occupation": "CHAIRMAN",
+      "amount": 500.0,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "WRIGHT, STEVEN",
+      "state": "TX",
+      "employer": "WRIGHT PROPERTY SERVICES",
+      "occupation": "OWNER AND BROKER",
+      "amount": 500.0,
+      "date": "2025-01-30"
+    },
+    {
+      "name": "RODRIGUEZ, RUDY",
+      "state": "TX",
+      "employer": "RODRIGUEZ INDUSTRIES & OPERATIONS INC",
+      "occupation": "PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GARZA, JUANITA G.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "ASCH, DON",
+      "state": "NY",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-03-26"
+    },
+    {
+      "name": "MAY, BRIAN J.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "MEYERS, LARRY D.",
+      "state": "DC",
+      "employer": "MEYERS & ASSOCIATES",
+      "occupation": "PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-01-10"
+    },
+    {
+      "name": "RATH, DIANE",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-02-10"
+    },
+    {
+      "name": "LEMUNYON, GLENN",
+      "state": "VA",
+      "employer": "THE LEMUNYON GROUP",
+      "occupation": "PRESIDENT/CEO",
+      "amount": 500.0,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "RAMIREZ, J. EDMUNDO JR",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE",
+      "amount": 500.0,
+      "date": "2025-03-28"
+    },
+    {
+      "name": "OCHOA, RENE",
+      "state": "TX",
+      "employer": "DEPUTY SHERIFF'S ASSOC. OF BEXAR COUNT",
+      "occupation": "CHAIR",
+      "amount": 500.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "BAYER, CHRISTINE",
+      "state": "AZ",
+      "employer": "BAYER REALTY",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "BINGHAM, TODD",
+      "state": "TX",
+      "employer": "WILLOW REAL ESTATE, LLC",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "BRAGMAN, KIMBERLY",
+      "state": "TX",
+      "employer": "PHYLLIS BROWNING COMPANY",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "BRUNO, MOLLY",
+      "state": "CT",
+      "employer": "THE UTOPIA REAL ESTATE CO.",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "CLICK, KAYLA",
+      "state": "TX",
+      "employer": "EBBY HALLIDAY REALTORS",
+      "occupation": "REAL ESTATE AGENT",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "CONN, JEFFREY",
+      "state": "TX",
+      "employer": "COLDWELL BANKER RICK CANUP, RE",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "COOKE, CANDACE",
+      "state": "TX",
+      "employer": "REAL PROPERTY COUNSELORS",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "COX, ETHAN",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "STUDENT",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "DETRICK, MICHAEL",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "DRUCKER, SCOTT",
+      "state": "AZ",
+      "employer": "ARIZONA ASSOCIATION OF REALTORS",
+      "occupation": "CHIEF EXECUTIVE OFFICER",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "EPSTEIN, CLAYTON S.",
+      "state": "TX",
+      "employer": "DR. IKE'S HOME CENTERS",
+      "occupation": "VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2026-02-23"
+    },
+    {
+      "name": "FISHER, KEVIN",
+      "state": "ND",
+      "employer": "PARK CO., REALTORS",
+      "occupation": "REALTOR",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "FOLEY, BETH",
+      "state": "MI",
+      "employer": "SHORES OF MICHIGAN REAL ESTATE",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "FRENCH, PAUL",
+      "state": "TX",
+      "employer": "FRENCH AND COMPANY REALTORS",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "GARCIA, FRANCO",
+      "state": "CA",
+      "employer": "GARCIA REALTY",
+      "occupation": "REALTOR BROKER",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "GARCIA, JOE A.",
+      "state": "TX",
+      "employer": "THE GARCIA GROUP",
+      "occupation": "GOVERNMENT & PUBLIC AFFAIRS CONSULTANT",
+      "amount": 500.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "GARCIA, NANCY",
+      "state": "TX",
+      "employer": "HALO GROUP REALTY, LLC",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "GARCIA, ROSANNA",
+      "state": "CA",
+      "employer": "GARCIA REALTY",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "GARLAND, KATHRYN",
+      "state": "TN",
+      "employer": "CRYE LEIKE REALTORS",
+      "occupation": "REALTOR",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "GONZALES, JOSE D.",
+      "state": "TX",
+      "employer": "STANDARDAERO",
+      "occupation": "VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "HELFANT BROWNING, DORCAS",
+      "state": "VA",
+      "employer": "COLDWELL BANKER NOW",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "JACKSON, GLEN",
+      "state": "TX",
+      "employer": "IBC INSURANCE",
+      "occupation": "ADVISOR",
+      "amount": 500.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "JACKSON, GLEN",
+      "state": "TX",
+      "employer": "IBC INSURANCE",
+      "occupation": "ADVISOR",
+      "amount": 500.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "JEFFRIES, LUKE",
+      "state": "MI",
+      "employer": "REAL ESTATE INFORMATION SYSTEM OF SW M",
+      "occupation": "CEO",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "LO, DENISE",
+      "state": "GA",
+      "employer": "LANDMARK COMMERCIAL & RESIDENT",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "MARTIN, JEFFERY",
+      "state": "TX",
+      "employer": "TEXAS INDEPENDENT AUTO DEALERS ASSOC.",
+      "occupation": "EXECUTIVE DIRECTOR",
+      "amount": 500.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "PATRICK, KATHERINE",
+      "state": "SD",
+      "employer": "KATE PATRICK REAL ESTATE-605 REAL ESTA",
+      "occupation": "REALTOR",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "PEPE, STEPHEN",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "PHIPPS, MARCUS",
+      "state": "TX",
+      "employer": "HARLINGEN HOMES",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "RANDALL, MELINDA",
+      "state": "TX",
+      "employer": "BOLD REAL ESTATE GROUP",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "ROBERTSON, KAREN",
+      "state": "IL",
+      "employer": "CROSSTOWN REALTORS, INC.",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-03"
+    },
+    {
+      "name": "ROMANO, ANDREW",
+      "state": "MA",
+      "employer": "BOLD REAL ESTATE",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-26"
+    },
+    {
+      "name": "SCHNITZER, DAVID",
+      "state": "TX",
+      "employer": "ASCEND COMMERCIAL REAL ESTATE",
+      "occupation": "COMMERCIAL BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "SEAL, CAROL",
+      "state": "TN",
+      "employer": "GREATER CHATTANOOGA ASSOCIATION OF REA",
+      "occupation": "CEO/EXECUTIVE VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "SIMON, KELLY",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "SMITH, SHERRY",
+      "state": "TX",
+      "employer": "EBBY HALLIDAY REALTORS",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "SURY, LOIS",
+      "state": "NM",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "WRIGHT, STEVEN",
+      "state": "TX",
+      "employer": "WRIGHT PROPERTY SERVICES",
+      "occupation": "OWNER AND BROKER",
+      "amount": 500.0,
+      "date": "2026-02-12"
+    },
+    {
+      "name": "WRIGHT, STEVEN",
+      "state": "TX",
+      "employer": "WRIGHT PROPERTY SERVICES",
+      "occupation": "OWNER AND BROKER",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "YAKLIN, LYNN",
+      "state": "TX",
+      "employer": "COLDWELL BANKER PACESETTER STEEL",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "ABELE, CHARLES",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "BONILLA, HENRY",
+      "state": "TX",
+      "employer": "THE NORMANDY GROUP",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "BONILLA, SHERYL",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-02-16"
+    },
+    {
+      "name": "DHINGRA, NIKHIL",
+      "state": "DC",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-03-26"
+    },
+    {
+      "name": "GARZA, VICTOR",
+      "state": "TX",
+      "employer": "VMK CONCRETE",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "GONZALEZ, ERNESTO",
+      "state": "TX",
+      "employer": "EMC STRATEGY GROUP",
+      "occupation": "LOBBYIST",
+      "amount": 500.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "GONZALEZ, ERNESTO",
+      "state": "TX",
+      "employer": "EMC STRATEGY GROUP",
+      "occupation": "LOBBYIST",
+      "amount": 500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "GUERRERO, MARIO",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONTRACTOR",
+      "amount": 500.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "GUERRERO, MARIO",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONTRACTOR",
+      "amount": 500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "LEASE, HILDA",
+      "state": "TX",
+      "employer": "RODS INC.",
+      "occupation": "CIVIL ENGINEER",
+      "amount": 500.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "LUNA, VILMA",
+      "state": "TX",
+      "employer": "VILMA LUNA LLC",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "MARTENS, CHARLES G.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE",
+      "amount": 500.0,
+      "date": "2026-02-16"
+    },
+    {
+      "name": "MELENDEZ, BENIGNO",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESS OWNER",
+      "amount": 500.0,
+      "date": "2026-02-27"
+    },
+    {
+      "name": "MURDEN, DALE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESS OWNER",
+      "amount": 500.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "PELAEZ, MANUEL",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "BUSINESS OWNER",
+      "amount": 500.0,
+      "date": "2026-03-20"
+    },
+    {
+      "name": "RAMIREZ, OSCAR",
+      "state": "DC",
+      "employer": "FULCRUM PUBLIC AFFAIRS",
+      "occupation": "GOVERNMENT RELATIONS",
+      "amount": 500.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "ROSSI, ARTHUR J.",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2026-02-16"
+    },
+    {
+      "name": "SHERIDAN, ANDREA J.",
+      "state": "TX",
+      "employer": "UNIVERSITY OF TEXAS",
+      "occupation": "STAFF",
+      "amount": 500.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "STIERS, MARY",
+      "state": "VA",
+      "employer": "EMMANUEL PRESCHOOL",
+      "occupation": "TEACHER",
+      "amount": 500.0,
+      "date": "2026-03-09"
+    },
+    {
+      "name": "KRUPP, DOUGLAS",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "KRUPP, GEORGE",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "MEYER, ANNE",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2026-02-20"
+    },
+    {
+      "name": "BONILLA, HENRY",
+      "state": "TX",
+      "employer": "THE NORMANDY GROUP",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-05-06"
+    },
+    {
+      "name": "VALADEZ JR., RAMIRO",
+      "state": "TX",
+      "employer": "WEST HIDE, INC",
+      "occupation": "PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "ESCARENO, LOUIS R.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "KEDROWICZ, RONALD",
+      "state": "WI",
+      "employer": "RAINBOW VALLEY AMUSEMENTS INC.",
+      "occupation": "AMUSEMENT RIDE OPERATOR",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "GUTIERREZ, CARLO E.",
+      "state": "TX",
+      "employer": "SMG PROPERTY MANAGEMENT",
+      "occupation": "REAL ESTATE BROKER",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "GONZALES, MARC C",
+      "state": "DC",
+      "employer": "AT&T",
+      "occupation": "ASSISTANT VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-05-14"
+    },
+    {
+      "name": "BARRERA, VIRGILIO",
+      "state": "MD",
+      "employer": "CASSIDY & ASSOCIATES",
+      "occupation": "SENIOR VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-06-17"
+    },
+    {
+      "name": "MCDONAGH, MATT",
+      "state": "FL",
+      "employer": "BIG ROCK AMUSEMENTS LLC (OABA/SEA)",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "SUDDUTH, SCOTT",
+      "state": "WV",
+      "employer": "WASHINGTON NAVIGATORS",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-05-14"
+    },
+    {
+      "name": "MELENDEZ, IVY",
+      "state": "UT",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONCESSIONAIRE",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "GUTIERREZ, HUGO III",
+      "state": "TX",
+      "employer": "FALCON BANK",
+      "occupation": "DIRECTOR",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "HALL, ANNABELLE",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-06-03"
+    },
+    {
+      "name": "NEMETH, PAUL",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CARNIVAL CONCESSIONAIRE",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "TRANT, MATT",
+      "state": "DC",
+      "employer": "THE NATIONAL GROUP",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-05-23"
+    },
+    {
+      "name": "RAMIREZ, JUAN",
+      "state": "TX",
+      "employer": "HOMEART",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-05-28"
+    },
+    {
+      "name": "PUPA, JOSEPH",
+      "state": "PA",
+      "employer": "INTERSTATE BUILDING MATERIALS INC.",
+      "occupation": "BUSINESS EXECUTIVE",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "RIOS, ROLANDO L.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "AGUILAR, DAVID",
+      "state": "VA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "REISS, BILLIE E.",
+      "state": "NY",
+      "employer": "BLUE SKY AMUSEMENTS",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "SKEEN, BILL C.",
+      "state": "TX",
+      "employer": "FASKEN OIL AND RANCH LTD.",
+      "occupation": "REAL ESTATE",
+      "amount": 500.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "ROSSI, ARTHUR J. JR",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2025-05-09"
+    },
+    {
+      "name": "DRISCOLL, PATRICIA",
+      "state": "MD",
+      "employer": "FRONTLINE DEFENSE SYSTEMS",
+      "occupation": "CEO",
+      "amount": 500.0,
+      "date": "2025-06-17"
+    },
+    {
+      "name": "BOGUE, MELISSA",
+      "state": "CA",
+      "employer": "BOGUEY CONCESSIONS",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "VALE, ROBERT A. SR",
+      "state": "TX",
+      "employer": "STARR-CAMARGO BRIDGE CO.",
+      "occupation": "VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-06-10"
+    },
+    {
+      "name": "SHERIDAN, PATRICK",
+      "state": "TX",
+      "employer": "ALAMO AMUSEMENTS INC.",
+      "occupation": "MOBILE ENTERTAINMENT",
+      "amount": 500.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "RICE, WILLIAM T.",
+      "state": "VA",
+      "employer": "WESTMORELAND 160 LLC",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-06-17"
+    },
+    {
+      "name": "VASWANI, SHASHI G.",
+      "state": "TX",
+      "employer": "ABOUT TIME LTD",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-08-07"
+    },
+    {
+      "name": "RHOADS, BARRY",
+      "state": "VA",
+      "employer": "CASSIDY & ASSOCIATES",
+      "occupation": "CHAIRMAN",
+      "amount": 500.0,
+      "date": "2025-09-16"
+    },
+    {
+      "name": "ANZALDUA, MARTIN",
+      "state": "TX",
+      "employer": "GRUPO RIO SAN JUAN",
+      "occupation": "DIRECTOR",
+      "amount": 500.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "WINCH, FRED W.",
+      "state": "TX",
+      "employer": "F.W. WINCH CATTLE CO.",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-09-23"
+    },
+    {
+      "name": "NEFF, BRIAN",
+      "state": "FL",
+      "employer": "SINTAVIA LLC",
+      "occupation": "EXECUTIVE",
+      "amount": 500.0,
+      "date": "2025-09-27"
+    },
+    {
+      "name": "SUDDUTH, SCOTT",
+      "state": "WV",
+      "employer": "WASHINGTON NAVIGATORS",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-09-16"
+    },
+    {
+      "name": "GONZALES, JOSE D.",
+      "state": "TX",
+      "employer": "STANDARDAERO",
+      "occupation": "VICE PRESIDENT",
+      "amount": 500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "ZAMARRON, ELOY JR.",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "PHYSICIAN",
+      "amount": 500.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "GONZALEZ, JOSE D.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CUSTOMS BROKER",
+      "amount": 500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "RAMIREZ, J. EDMUNDO JR",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE",
+      "amount": 500.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "GURWITZ, GARY",
+      "state": "TX",
+      "employer": "ATLAS HALL & RODRIGUEZ, LLP",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-09-23"
+    },
+    {
+      "name": "GARCIA, JOE A.",
+      "state": "TX",
+      "employer": "THE GARCIA GROUP",
+      "occupation": "GOVERNMENT & PUBLIC AFFAIRS CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "KAHN, THOMAS",
+      "state": "DC",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-08-02"
+    },
+    {
+      "name": "NOVOTNY, JOSEF",
+      "state": "DC",
+      "employer": "HUSCH BLACKWELL STRATEGIES",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-07-09"
+    },
+    {
+      "name": "RIOS, ROLANDO L.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "SIMPSON, ROBERT A.",
+      "state": "TX",
+      "employer": "EL BUFALO PAWN",
+      "occupation": "PAWNBROKER",
+      "amount": 500.0,
+      "date": "2025-07-28"
+    },
+    {
+      "name": "TRANIN, LAURA",
+      "state": "WA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-09-01"
+    },
+    {
+      "name": "DOMINGUEZ, ARTURO",
+      "state": "TX",
+      "employer": "A BROKERAGE FIRM",
+      "occupation": "BROKER",
+      "amount": 500.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "GARZA, ANNIE R.",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "BOOKKEEPER",
+      "amount": 500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "LEWIS, RON E.",
+      "state": "TX",
+      "employer": "RON LEWIS & ASSOCIATES",
+      "occupation": "GOVERNMENT CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-09-25"
+    },
+    {
+      "name": "EDWARDS, CHET",
+      "state": "TX",
+      "employer": "EDWARDS DAVIS STOVER & ASSOCIATES LLC",
+      "occupation": "CONSULTANT",
+      "amount": 500.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "CAVAZOS RAMIREZ, ANNA L.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "BONILLA, HENRY",
+      "state": "TX",
+      "employer": "THE NORMANDY GROUP",
+      "occupation": "PARTNER",
+      "amount": 500.0,
+      "date": "2025-09-15"
+    },
+    {
+      "name": "HENRY, MICHAEL",
+      "state": "DC",
+      "employer": "ACORN CONSULTING",
+      "occupation": "LOBBYIST",
+      "amount": 500.0,
+      "date": "2025-09-29"
+    },
+    {
+      "name": "LEMUNYON, GLENN",
+      "state": "VA",
+      "employer": "THE LEMUNYON GROUP",
+      "occupation": "PRESIDENT/CEO",
+      "amount": 500.0,
+      "date": "2025-07-25"
+    },
+    {
+      "name": "CLAUSER, SARA",
+      "state": "MD",
+      "employer": "ARK STRATEGY LLC",
+      "occupation": "CO-OWNER",
+      "amount": 500.0,
+      "date": "2025-09-16"
+    },
+    {
+      "name": "AGUILAR, JORGE",
+      "state": "DC",
+      "employer": "THEGROUP DC",
+      "occupation": "PRINCIPAL",
+      "amount": 500.0,
+      "date": "2025-09-23"
+    },
+    {
+      "name": "MURDEN, DALE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "FARMER",
+      "amount": 500.0,
+      "date": "2025-08-04"
+    },
+    {
+      "name": "GONZALES, VERONICA",
+      "state": "TX",
+      "employer": "UNIVERSITY OF TEXAS RIO GRANDE VALLEY",
+      "occupation": "UNIVERSITY ADMINISTRATOR",
+      "amount": 500.0,
+      "date": "2025-09-18"
+    },
+    {
+      "name": "CARDENAS, MARCUS",
+      "state": "TX",
+      "employer": "VERTEX CONCRETE LLC",
+      "occupation": "OWNER",
+      "amount": 500.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "MARTINEZ, SERGIO",
+      "state": "TX",
+      "employer": "LAW OFFICES OF MARIO DAVILA",
+      "occupation": "DIRECTOR",
+      "amount": 500.0,
+      "date": "2025-09-23"
+    },
+    {
+      "name": "RAMIREZ, J. EDMUNDO JR",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "REAL ESTATE",
+      "amount": 500.0,
+      "date": "2025-08-04"
+    },
+    {
+      "name": "MONTEMAYOR, PATRICIA",
+      "state": "TX",
+      "employer": "1ST CHOICE MERCHANT SOLUTIONS",
+      "occupation": "PATRICIA MONTEMAYOR",
+      "amount": 500.0,
+      "date": "2025-09-19"
+    },
+    {
+      "name": "ROGAN, PATRICK",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 500.0,
+      "date": "2025-09-14"
+    },
+    {
+      "name": "DORFMAN, ROBERT",
+      "state": "MA",
+      "employer": "DORFMAN CAPITAL",
+      "occupation": "BANKER",
+      "amount": 406.25,
+      "date": "2026-02-22"
+    },
+    {
+      "name": "NUNLEY, JEFF D.",
+      "state": "TX",
+      "employer": "SOUTH TX COTTON & GRAIN ASSOC.",
+      "occupation": "EXECUTIVE DIRECTOR",
+      "amount": 400.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "SILBEY, ALEXANDER T.",
+      "state": "VA",
+      "employer": "SILBEY STRATEGIES INC.",
+      "occupation": "PRESIDENT",
+      "amount": 400.0,
+      "date": "2025-09-18"
+    },
+    {
+      "name": "GEBALLE, BENJAMIN",
+      "state": "NY",
+      "employer": "NEW YORK CITY DEPARTMENT OF EDUCATION",
+      "occupation": "ADMINISTRATOR",
+      "amount": 384.62,
+      "date": "2025-03-06"
+    },
+    {
+      "name": "NEIDICH, DANIEL",
+      "state": "NY",
+      "employer": "DUNE CAPITAL",
+      "occupation": "CO-CEO",
+      "amount": 384.61,
+      "date": "2025-07-29"
+    },
+    {
+      "name": "INGERSOLL, DEBORAH C.",
+      "state": "TX",
+      "employer": "LEGISLATIVE SOLUTIONS INC.",
+      "occupation": "PRESIDENT",
+      "amount": 380.0,
+      "date": "2025-09-24"
+    },
+    {
+      "name": "SEIDLITS, CURTIS L. JR",
+      "state": "TX",
+      "employer": "CLS CONSULTING",
+      "occupation": "CONSULTANT",
+      "amount": 350.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "HOWE, DAVID",
+      "state": "CA",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ECONOMIST",
+      "amount": 320.0,
+      "date": "2025-09-05"
+    },
+    {
+      "name": "ROMO, KEVIN S.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "INSURANCE AGENT",
+      "amount": 300.0,
+      "date": "2025-08-07"
+    },
+    {
+      "name": "MARTENS, CHARLES L.",
+      "state": "TX",
+      "employer": "KILLAM OIL COMPANY",
+      "occupation": "PETROLEUM LANDMAN",
+      "amount": 300.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "WATSON, JEFFERY S.",
+      "state": "OH",
+      "employer": "SELF EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 300.0,
+      "date": "2025-08-01"
+    },
+    {
+      "name": "BOWERS, LEW",
+      "state": "OR",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-12-02"
+    },
+    {
+      "name": "EAST, CARA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-12-29"
+    },
+    {
+      "name": "FLORES, BETTY",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-10-22"
+    },
+    {
+      "name": "COX, ETHAN",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "STUDENT",
+      "amount": 250.0,
+      "date": "2025-12-03"
+    },
+    {
+      "name": "HOSKINS, WES",
+      "state": "TX",
+      "employer": "FIRST COMMUNITY BANK",
+      "occupation": "BANKER",
+      "amount": 250.0,
+      "date": "2025-12-29"
+    },
+    {
+      "name": "EAST, CARA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-12-05"
+    },
+    {
+      "name": "O'CONNELL, PETER",
+      "state": "MA",
+      "employer": "MEADOWS AT MARINA BAY",
+      "occupation": "MANAGER",
+      "amount": 250.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "JACKSON, ALAN G.",
+      "state": "TX",
+      "employer": "IBC INSURANCE AGENCY LTD",
+      "occupation": "SENIOR INSURANCE PRODUCER",
+      "amount": 250.0,
+      "date": "2025-12-05"
+    },
+    {
+      "name": "LUNA, VILMA",
+      "state": "TX",
+      "employer": "VILMA LUNA LLC",
+      "occupation": "CONSULTANT",
+      "amount": 250.0,
+      "date": "2025-12-12"
+    },
+    {
+      "name": "DELGADO, TERESA A.",
+      "state": "TX",
+      "employer": "RODEL INTERNATIONAL",
+      "occupation": "CHIEF FINANCIAL OFFICER",
+      "amount": 250.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "MORGAN, JARED",
+      "state": "OK",
+      "employer": "PREFLIGHT TECHNOLOGIES INCORPORATED",
+      "occupation": "SOFTWARE DEVELOPER",
+      "amount": 250.0,
+      "date": "2025-12-07"
+    },
+    {
+      "name": "MARTINEZ, CARLOS G.",
+      "state": "TX",
+      "employer": "GSA CARGO",
+      "occupation": "DIRECTOR",
+      "amount": 250.0,
+      "date": "2025-12-08"
+    },
+    {
+      "name": "ALDRICH, DAVID",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-10-05"
+    },
+    {
+      "name": "ALDRICH, DAVID",
+      "state": "FL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-01-15"
+    },
+    {
+      "name": "HELLERSTEDT, JOHN",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "HEALTHCARE CONSULTANT",
+      "amount": 250.0,
+      "date": "2026-01-24"
+    },
+    {
+      "name": "JACKSON, ALAN G.",
+      "state": "TX",
+      "employer": "IBC INSURANCE AGENCY LTD",
+      "occupation": "SENIOR INSURANCE PRODUCER",
+      "amount": 250.0,
+      "date": "2026-01-14"
+    },
+    {
+      "name": "MILLEDGE, JOHN",
+      "state": "FL",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2026-01-15"
+    },
+    {
+      "name": "ANDRADE, ESPERANZA H.",
+      "state": "TX",
+      "employer": "STATE OF TEXAS",
+      "occupation": "TRANSPORTATION COMMISSIONER",
+      "amount": 250.0,
+      "date": "2025-02-21"
+    },
+    {
+      "name": "GIFFIN, KENNA S.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-03-31"
+    },
+    {
+      "name": "PENA, H.R. BERT",
+      "state": "DC",
+      "employer": "HRPENALAW",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-02-03"
+    },
+    {
+      "name": "ROSSI, ARTHUR J. JR",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-02-26"
+    },
+    {
+      "name": "FLORES, JUAN ANTONIO",
+      "state": "TX",
+      "employer": "PORT SAN ANTONIO",
+      "occupation": "GOVERNMENT RELATIONS EXECUTIVE",
+      "amount": 250.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "MACON, JANE H.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "STOKEN, AMY",
+      "state": "IL",
+      "employer": "NLE",
+      "occupation": "DIRECTOR",
+      "amount": 250.0,
+      "date": "2026-03-19"
+    },
+    {
+      "name": "GIBBS, MICHAEL H.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-02-11"
+    },
+    {
+      "name": "GONZALES, JOHN",
+      "state": "TX",
+      "employer": "US CHAMBER OF COMMERCE",
+      "occupation": "EXECUTIVE DIRECTOR",
+      "amount": 250.0,
+      "date": "2026-02-16"
+    },
+    {
+      "name": "HAMILTON, DANIEL",
+      "state": "DC",
+      "employer": "GEORGE MASON UNIVERSITY",
+      "occupation": "PROFESSOR",
+      "amount": 250.0,
+      "date": "2026-02-09"
+    },
+    {
+      "name": "JOHNSTON, MELINDA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-02-11"
+    },
+    {
+      "name": "KANE, JIM L. III",
+      "state": "VA",
+      "employer": "908 DEVICES",
+      "occupation": "DIRECTOR",
+      "amount": 250.0,
+      "date": "2026-03-25"
+    },
+    {
+      "name": "KERCHEVILLE, SCOTT E.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-02-25"
+    },
+    {
+      "name": "LEO, MYRA",
+      "state": "TX",
+      "employer": "HBSTRATEGIES",
+      "occupation": "CONSULTANT",
+      "amount": 250.0,
+      "date": "2026-02-20"
+    },
+    {
+      "name": "NUSZ, THOMAS",
+      "state": "MS",
+      "employer": "END POINT ENERGY",
+      "occupation": "MANAGING PARTNER",
+      "amount": 250.0,
+      "date": "2026-02-25"
+    },
+    {
+      "name": "RATH, DIANE",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-03-18"
+    },
+    {
+      "name": "ROBBINS, STEPHEN",
+      "state": "GA",
+      "employer": "TUMI HOSPITALITY",
+      "occupation": "MANAGING DIRECTOR",
+      "amount": 250.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "RODRIGUEZ, OSCAR",
+      "state": "TX",
+      "employer": "TEXAS ASSOCIATION OF BROADCASTERS",
+      "occupation": "PRESIDENT",
+      "amount": 250.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "ROMO, RICARDO",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-02-17"
+    },
+    {
+      "name": "ROSER, NETO",
+      "state": "TX",
+      "employer": "ROSER & J COWEN LOGISTICAL SVCS LTD",
+      "occupation": "LICENSED US CUSTOMS BROKER",
+      "amount": 250.0,
+      "date": "2026-03-02"
+    },
+    {
+      "name": "ROSSI, ARTHUR J.",
+      "state": "TX",
+      "employer": "SELF EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2026-03-21"
+    },
+    {
+      "name": "RABA, GARY W.",
+      "state": "TX",
+      "employer": "RABA KISTNER INC.",
+      "occupation": "ENGINEER",
+      "amount": 250.0,
+      "date": "2026-02-16"
+    },
+    {
+      "name": "BERCOW, DAVID",
+      "state": "NY",
+      "employer": "VENSURE",
+      "occupation": "SALES",
+      "amount": 250.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "ANDERSON, MAREN",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-01-18"
+    },
+    {
+      "name": "BURNES, RICK",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-01-18"
+    },
+    {
+      "name": "COLLIER, EARL",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-01-18"
+    },
+    {
+      "name": "DONOHUE, FAY",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2026-01-18"
+    },
+    {
+      "name": "SHEPHERD, MARK",
+      "state": "MA",
+      "employer": "SHEPHERD FINANCIAL PARTNERS",
+      "occupation": "WEALTH MANAGEMENT",
+      "amount": 250.0,
+      "date": "2026-02-22"
+    },
+    {
+      "name": "BISHOP, NANCY",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "INDEPENDENT RIDE OWNER",
+      "amount": 250.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "GARZA, RUDY D.",
+      "state": "TX",
+      "employer": "CPS ENERGY",
+      "occupation": "MANAGER",
+      "amount": 250.0,
+      "date": "2025-05-05"
+    },
+    {
+      "name": "CARLSON, WILLIAM",
+      "state": "TX",
+      "employer": "IMS HOME HEALTH & HOSPICE CARE",
+      "occupation": "OWNER",
+      "amount": 250.0,
+      "date": "2025-06-25"
+    },
+    {
+      "name": "KERCHEVILLE, SCOTT E.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-05-07"
+    },
+    {
+      "name": "ROSER, NETO",
+      "state": "TX",
+      "employer": "ROSER & J COWEN LOGISTICAL SVCS LTD",
+      "occupation": "LICENSED US CUSTOMS BROKER",
+      "amount": 250.0,
+      "date": "2025-06-26"
+    },
+    {
+      "name": "KOLAR, CHAD",
+      "state": "OH",
+      "employer": "KOLAR CONCESSIONS LLC",
+      "occupation": "OWNER",
+      "amount": 250.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "GURWITZ, GARY",
+      "state": "TX",
+      "employer": "ATLAS HALL & RODRIGUEZ, LLP",
+      "occupation": "PARTNER",
+      "amount": 250.0,
+      "date": "2025-04-25"
+    },
+    {
+      "name": "SETLIFF, MICHAEL S.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CHIROPRACTOR",
+      "amount": 250.0,
+      "date": "2025-06-27"
+    },
+    {
+      "name": "PICKETT, BEN",
+      "state": "AZ",
+      "employer": "RCS",
+      "occupation": "VICE PRESIDENT",
+      "amount": 250.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "GONZALES, JOHN",
+      "state": "TX",
+      "employer": "US CHAMBER OF COMMERCE",
+      "occupation": "EXECUTIVE DIRECTOR",
+      "amount": 250.0,
+      "date": "2025-04-15"
+    },
+    {
+      "name": "MARTINEZ, ABEL",
+      "state": "TX",
+      "employer": "HEB",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-05-16"
+    },
+    {
+      "name": "SCHRODER, BRAD",
+      "state": "MN",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESS OWNER",
+      "amount": 250.0,
+      "date": "2025-05-08"
+    },
+    {
+      "name": "RAMIREZ, MINITA",
+      "state": "TX",
+      "employer": "TEXAS A&M INTERNATIONAL UNIVERSITY",
+      "occupation": "EDUCATOR AND ADMINISTRATOR",
+      "amount": 250.0,
+      "date": "2025-06-30"
+    },
+    {
+      "name": "RICHARDSON, TIMOTHY L.",
+      "state": "MD",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CONSULTANT",
+      "amount": 250.0,
+      "date": "2025-06-04"
+    },
+    {
+      "name": "GIFFIN, KENNA S.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-08-22"
+    },
+    {
+      "name": "BROMLEY, ERNEST W.",
+      "state": "TX",
+      "employer": "PESCADOR PUBLIC STRATEGIES LLC",
+      "occupation": "MANAGING PARTNER",
+      "amount": 250.0,
+      "date": "2025-08-04"
+    },
+    {
+      "name": "CANERO, MICHELLE",
+      "state": "FL",
+      "employer": "CANERO IMMIGRATION LAW FIRM",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "GONZALES, JOHN",
+      "state": "TX",
+      "employer": "US CHAMBER OF COMMERCE",
+      "occupation": "EXECUTIVE DIRECTOR",
+      "amount": 250.0,
+      "date": "2025-08-06"
+    },
+    {
+      "name": "ARGUELLES, ADAM",
+      "state": "ME",
+      "employer": "RISEPOINT",
+      "occupation": "SENIOR VICE PRESIDENT GOVERNMENT AFFAI",
+      "amount": 250.0,
+      "date": "2025-09-16"
+    },
+    {
+      "name": "HOEL, JOHN",
+      "state": "VA",
+      "employer": "ALTRIA CLIENT SERVICES LLC",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-07-15"
+    },
+    {
+      "name": "ROMO, KEVIN S.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "INSURANCE AGENT",
+      "amount": 250.0,
+      "date": "2025-09-22"
+    },
+    {
+      "name": "MALDONADO, GERARDO",
+      "state": "TX",
+      "employer": "WARREN TRANSPORT INC.",
+      "occupation": "DIRECTOR OF OPERATIONS",
+      "amount": 250.0,
+      "date": "2025-08-06"
+    },
+    {
+      "name": "MERCADO, JOSE",
+      "state": "DC",
+      "employer": "DOORDASH",
+      "occupation": "HEAD OF CONGRESSIONAL AFFAIRS",
+      "amount": 250.0,
+      "date": "2025-07-17"
+    },
+    {
+      "name": "COX, ETHAN",
+      "state": "DC",
+      "employer": "HOUSE OF REPRESENTATIVES",
+      "occupation": "DIRECTOR OF OPERATIONS",
+      "amount": 250.0,
+      "date": "2025-07-30"
+    },
+    {
+      "name": "DELGADO, TERESA A.",
+      "state": "TX",
+      "employer": "RODEL INTERNATIONAL",
+      "occupation": "CHIEF FINANCIAL OFFICER",
+      "amount": 250.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "RATH, DIANE",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-07-29"
+    },
+    {
+      "name": "HELLERSTEDT, JOHN",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-07-24"
+    },
+    {
+      "name": "HERNANDEZ, LAURA",
+      "state": "TX",
+      "employer": "PESCADOR PUBLIC STRATEGIES",
+      "occupation": "MANAGING DIRECTOR",
+      "amount": 250.0,
+      "date": "2025-08-13"
+    },
+    {
+      "name": "WORTHINGTON, DAN",
+      "state": "TX",
+      "employer": "RAMON WORTHINGTON",
+      "occupation": "ATTORNEY",
+      "amount": 250.0,
+      "date": "2025-07-31"
+    },
+    {
+      "name": "LUNA, VILMA",
+      "state": "TX",
+      "employer": "VILMA LUNA LLC",
+      "occupation": "CONSULTANT",
+      "amount": 250.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "LOPEZ, ELMO JR.",
+      "state": "TX",
+      "employer": "DOCTORS HOSPITAL OF LAREDO",
+      "occupation": "CEO & MANAGING DIRECTOR",
+      "amount": 250.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "VILLARREAL, RAUL",
+      "state": "TX",
+      "employer": "NA",
+      "occupation": "RETIRED",
+      "amount": 250.0,
+      "date": "2025-08-15"
+    },
+    {
+      "name": "DELGADO, TERESA A.",
+      "state": "TX",
+      "employer": "RODEL INTERNATIONAL",
+      "occupation": "CHIEF FINANCIAL OFFICER",
+      "amount": 250.0,
+      "date": "2025-09-26"
+    },
+    {
+      "name": "YAFFA, ANDREW",
+      "state": "FL",
+      "employer": "GRYC",
+      "occupation": "ATTORNEY",
+      "amount": 225.0,
+      "date": "2026-01-13"
+    },
+    {
+      "name": "GILBERT, JOHN",
+      "state": "MA",
+      "employer": "NEXTEGIC VENTURES",
+      "occupation": "MANAGING PARTNER",
+      "amount": 200.0,
+      "date": "2025-12-29"
+    },
+    {
+      "name": "ALEXANDER, KATHLEEN",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 200.0,
+      "date": "2025-10-29"
+    },
+    {
+      "name": "GUERRA, HERIBERTO JR.",
+      "state": "TX",
+      "employer": "AVANZAR INTERIOR TECHNOLOGIES",
+      "occupation": "CHAIRMAN & CEO",
+      "amount": 200.0,
+      "date": "2026-02-02"
+    },
+    {
+      "name": "AMATO, CHARLES E.",
+      "state": "TX",
+      "employer": "SOUTHWEST BUSINESS CORPORATION",
+      "occupation": "CHAIRMAN/CO-FOUNDER",
+      "amount": 200.0,
+      "date": "2025-02-12"
+    },
+    {
+      "name": "VALE, LINDA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "HOMEMAKER",
+      "amount": 200.0,
+      "date": "2025-02-14"
+    },
+    {
+      "name": "SILBEY, ALEXANDER T.",
+      "state": "VA",
+      "employer": "SILBEY STRATEGIES",
+      "occupation": "CONSULTANT",
+      "amount": 200.0,
+      "date": "2025-01-17"
+    },
+    {
+      "name": "DICKSON, ROBERT T.",
+      "state": "TX",
+      "employer": "FASKEN MANAGEMENT LLC",
+      "occupation": "PRINCIPAL",
+      "amount": 200.0,
+      "date": "2025-05-19"
+    },
+    {
+      "name": "KAHN, THOMAS",
+      "state": "DC",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 178.26,
+      "date": "2025-12-14"
+    },
+    {
+      "name": "GUERRA, FRANK A.",
+      "state": "TX",
+      "employer": "SANCHEZ OIL & GAS CORP.",
+      "occupation": "VICE PRESIDENT",
+      "amount": 150.0,
+      "date": "2025-12-19"
+    },
+    {
+      "name": "MILLEDGE, JOHN",
+      "state": "FL",
+      "employer": "JOHN M. MILLEDGE PA",
+      "occupation": "ATTORNEY",
+      "amount": 150.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "NUSZ, THOMAS",
+      "state": "MS",
+      "employer": "END POINT ENERGY",
+      "occupation": "MANAGING PARTNER",
+      "amount": 150.0,
+      "date": "2025-09-30"
+    },
+    {
+      "name": "DORFMAN, ROBERT",
+      "state": "MA",
+      "employer": "DORFMAN CAPITAL",
+      "occupation": "BANKER",
+      "amount": 114.58,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "NORRICK, BRAD",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-10-01"
+    },
+    {
+      "name": "EAST, CARA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-11-29"
+    },
+    {
+      "name": "NORRICK, BRAD",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-11-01"
+    },
+    {
+      "name": "EAST, CARA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-10-23"
+    },
+    {
+      "name": "CIGARROA, JORGE",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "BUSINESS OWNER",
+      "amount": 100.0,
+      "date": "2025-11-14"
+    },
+    {
+      "name": "CAVAZOS RAMIREZ, ANNA L.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-12-03"
+    },
+    {
+      "name": "EAST, CARA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-11-14"
+    },
+    {
+      "name": "HELLERSTEDT, JOHN",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "HEALTHCARE CONSULTANT",
+      "amount": 100.0,
+      "date": "2025-12-05"
+    },
+    {
+      "name": "HELLERSTEDT, JOHN",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "HEALTHCARE CONSULTANT",
+      "amount": 100.0,
+      "date": "2025-11-08"
+    },
+    {
+      "name": "NORRICK, BRAD",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-12-01"
+    },
+    {
+      "name": "KING, JOSEPH",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-01-27"
+    },
+    {
+      "name": "NORRICK, BRAD",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-02-01"
+    },
+    {
+      "name": "NORRICK, BRAD",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-01-01"
+    },
+    {
+      "name": "BARBER, RONALD",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-02-09"
+    },
+    {
+      "name": "GIBBS, MICHAEL H.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-03-18"
+    },
+    {
+      "name": "NORRICK, BRAD",
+      "state": "IL",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-03-01"
+    },
+    {
+      "name": "SALINAS, ORALIA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-03-31"
+    },
+    {
+      "name": "DONOHUE, FAY",
+      "state": "MA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2026-03-08"
+    },
+    {
+      "name": "ROSSI, ARTHUR J.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 100.0,
+      "date": "2025-09-20"
+    },
+    {
+      "name": "SALINAS, ORALIA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-09-28"
+    },
+    {
+      "name": "GIFFIN, KENNA S.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "ATTORNEY",
+      "amount": 100.0,
+      "date": "2025-09-19"
+    },
+    {
+      "name": "GONZALEZ, JOSE D.",
+      "state": "TX",
+      "employer": "SELF-EMPLOYED",
+      "occupation": "CUSTOMS BROKER",
+      "amount": 100.0,
+      "date": "2025-09-19"
+    },
+    {
+      "name": "KERCHEVILLE, SCOTT E.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 100.0,
+      "date": "2025-08-03"
+    },
+    {
+      "name": "LEAKE, JOAN",
+      "state": "NY",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 83.34,
+      "date": "2026-02-05"
+    },
+    {
+      "name": "VILLARREAL, MARTHA E.",
+      "state": "TX",
+      "employer": "LAREDO INDPT. SCHOOL DISTRICT",
+      "occupation": "H.S. PRINCIPAL",
+      "amount": 50.0,
+      "date": "2025-12-24"
+    },
+    {
+      "name": "VILLARREAL, MARTHA E.",
+      "state": "TX",
+      "employer": "LAREDO INDPT. SCHOOL DISTRICT",
+      "occupation": "H.S. PRINCIPAL",
+      "amount": 50.0,
+      "date": "2025-11-24"
+    },
+    {
+      "name": "VILLARREAL, MARTHA E.",
+      "state": "TX",
+      "employer": "LAREDO INDPT. SCHOOL DISTRICT",
+      "occupation": "H.S. PRINCIPAL",
+      "amount": 50.0,
+      "date": "2025-10-24"
+    },
+    {
+      "name": "KING, JOSEPH",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 50.0,
+      "date": "2026-01-14"
+    },
+    {
+      "name": "VILLARREAL, MARTHA E.",
+      "state": "TX",
+      "employer": "LAREDO INDEPENDENT SCHOOL DISTRICT",
+      "occupation": "PRINCIPAL",
+      "amount": 50.0,
+      "date": "2026-01-24"
+    },
+    {
+      "name": "BARBER, RONALD",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 50.0,
+      "date": "2026-02-26"
+    },
+    {
+      "name": "BARBER, RONALD",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 50.0,
+      "date": "2026-03-15"
+    },
+    {
+      "name": "VILLARREAL, MARTHA E.",
+      "state": "TX",
+      "employer": "LAREDO INDEPENDENT SCHOOL DISTRICT",
+      "occupation": "H.S. PRINCIPAL",
+      "amount": 50.0,
+      "date": "2026-02-24"
+    },
+    {
+      "name": "VILLARREAL, MARTHA E.",
+      "state": "TX",
+      "employer": "LAREDO INDEPENDENT SCHOOL DISTRICT",
+      "occupation": "H.S. PRINCIPAL",
+      "amount": 50.0,
+      "date": "2026-03-24"
+    },
+    {
+      "name": "HELLERSTEDT, JOHN",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 50.0,
+      "date": "2025-08-31"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-10-30"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-10-01"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-12-25"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-11-25"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-12-30"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-11-30"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-10-25"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2026-01-30"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2026-01-25"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2026-02-25"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2026-02-28"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2026-03-25"
+    },
+    {
+      "name": "LONGORIA, DENNIS",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2026-03-30"
+    },
+    {
+      "name": "SALINAS, ORALIA",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 25.0,
+      "date": "2025-09-19"
+    },
+    {
+      "name": "ROGAN, PATRICK",
+      "state": "CA",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 22.73,
+      "date": "2025-12-30"
+    },
+    {
+      "name": "CAVAZOS RAMIREZ, ANNA L.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 10.0,
+      "date": "2025-11-12"
+    },
+    {
+      "name": "CAVAZOS RAMIREZ, ANNA L.",
+      "state": "TX",
+      "employer": "N/A",
+      "occupation": "RETIRED",
+      "amount": 10.0,
+      "date": "2025-09-30"
+    }
+  ],
+  "insights": {
+    "geography": "Unlike many Congress members with lopsided out-of-state fundraising, Cuellar maintains a slight majority from Texas (54.8%). However, the DC/VA/MD corridor alone contributes $75K+ \u2014 a heavy Beltway footprint for a south Texas representative.",
+    "pacs": "AIPAC PAC contributed $31,050 across 12 transactions (Dec 2025 \u2013 Mar 2026), making it the 3rd largest PAC donor. DMFI PAC added another $1,000. AIPAC's earmarked contributions function as bundled money \u2014 its actual influence footprint extends beyond the dollar figure.",
+    "donationSize": "The $2,500\u2013$3,500 bracket alone accounts for nearly half of all individual money raised ($410K). Only $3,276 came from donations under $100. This is a campaign funded almost entirely by maxed-out wealthy donors, PACs, and the candidate himself.",
+    "notable": "Palmer Luckey (Anduril) and defense/border interests are prominent. The Vale family operates the Starr-Camargo international bridge in Cuellar's district. Akin Gump, one of DC's biggest lobbying firms, has 4 donors in the file."
+  }
+}
