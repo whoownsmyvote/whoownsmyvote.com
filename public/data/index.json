@@ -36,5 +36,24 @@
     "pacPercent": 44,
     "avgDonation": 779,
     "maxedOosPercent": 95.7
+  },
+  {
+    "name": "Jared Golden",
+    "slug": "jared-golden-me",
+    "district": "ME-02",
+    "party": "D",
+    "chamber": "House",
+    "state": "ME",
+    "dateRange": "Jan 2025 – Mar 2026",
+    "totalRaised": 3589043,
+    "homeStatePercent": 13.7,
+    "outOfStatePercent": 86.3,
+    "aipacTotal": 449820,
+    "aipacPercent": 24.4,
+    "individualTotal": 1846058,
+    "pacMoney": 1673787,
+    "pacPercent": 47,
+    "avgDonation": 790,
+    "maxedOosPercent": 89.9
   }
 ]
