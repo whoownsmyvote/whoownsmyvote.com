@@ -12,7 +12,7 @@ function Header() {
         <nav className="site-nav">
           <Link to="/">All Politicians</Link>
           <a href="https://www.fec.gov" target="_blank" rel="noopener">FEC Source</a>
-          <a href="https://buymeacoffee.com/whoownsmyvote" target="_blank" rel="noopener" style={{ color: '#e8c12d' }}>☕ Support</a>
+          <a href="https://buymeacoffee.com/whoownsmyvote" target="_blank" rel="noopener" style={{ color: '#2dd4a8' }}>☕ Support</a>
         </nav>
       </div>
     </header>
@@ -27,7 +27,7 @@ function Footer() {
       </p>
       <p style={{ fontSize: 12, marginBottom: 10 }}>
         <a href="https://buymeacoffee.com/whoownsmyvote" target="_blank" rel="noopener"
-          style={{ color: '#e8c12d', textDecoration: 'underline' }}>
+          style={{ color: '#2dd4a8', textDecoration: 'underline' }}>
           If this is useful to you, consider buying me a coffee.
         </a>
       </p>
