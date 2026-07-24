@@ -59,15 +59,16 @@ export default function DonorTable({ donors, homeState }) {
 
   const arrow = (field) => sortField === field ? (sortDir === 'desc' ? ' ↓' : ' ↑') : ''
 
-  const headerStyle = (field) => ({
+  const headerStyle = (field, align) => ({
     fontSize: 11, fontWeight: 600, color: sortField === field ? 'var(--accent)' : 'var(--text-muted)',
     textTransform: 'uppercase', letterSpacing: 0.5, cursor: 'pointer', userSelect: 'none',
     padding: '8px 0', borderBottom: '1px solid var(--border-light)',
+    textAlign: align || 'left',
   })
 
   return (
     <div>
-      <h2 style={{ marginBottom: 6 }}>All individual donors</h2>
+      <h2 style={{ marginBottom: 6 }}>All Individual Donors</h2>
       <div style={{ fontSize: 12, color: 'var(--text-dim)', marginBottom: 16 }}>
         {donors.length} total donors · Search, filter, and sort the full list
       </div>
@@ -109,18 +110,18 @@ export default function DonorTable({ donors, homeState }) {
       </div>
 
       {/* Table header */}
-      <div style={{ display: 'grid', gridTemplateColumns: '2fr 1.5fr 1fr 0.7fr 0.8fr', gap: 8, alignItems: 'center' }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '2fr 1.5fr 0.8fr 0.6fr 0.8fr', gap: 8, alignItems: 'center' }}>
         <div style={headerStyle('name')} onClick={() => toggleSort('name')}>Name{arrow('name')}</div>
-        <div style={headerStyle('employer')}>Employer / Occupation</div>
-        <div style={{ ...headerStyle('amount'), textAlign: 'right' }} onClick={() => toggleSort('amount')}>Amount{arrow('amount')}</div>
-        <div style={headerStyle('state')} onClick={() => toggleSort('state')}>State{arrow('state')}</div>
+        <div style={headerStyle('')}>Employer / Occupation</div>
+        <div style={headerStyle('amount', 'center')} onClick={() => toggleSort('amount')}>Amount{arrow('amount')}</div>
+        <div style={headerStyle('state', 'center')} onClick={() => toggleSort('state')}>State{arrow('state')}</div>
         <div style={headerStyle('date')} onClick={() => toggleSort('date')}>Date{arrow('date')}</div>
       </div>
 
       {/* Rows */}
       {visible.map((d, i) => (
         <div key={i} style={{
-          display: 'grid', gridTemplateColumns: '2fr 1.5fr 1fr 0.7fr 0.8fr', gap: 8,
+          display: 'grid', gridTemplateColumns: '2fr 1.5fr 0.8fr 0.6fr 0.8fr', gap: 8,
           alignItems: 'center', padding: '7px 0',
           borderBottom: '1px solid #161616', fontSize: 12,
         }}>
@@ -129,12 +130,12 @@ export default function DonorTable({ donors, homeState }) {
             {[d.employer, d.occupation].filter(Boolean).join(' / ')}
           </div>
           <div style={{
-            textAlign: 'right', fontWeight: 600,
+            textAlign: 'center', fontWeight: 600,
             color: d.amount >= 3500 ? 'var(--accent)' : 'var(--text-primary)',
           }}>
             {fmtFull(d.amount)}
           </div>
-          <div style={{ color: d.state === homeState ? 'var(--accent)' : 'var(--text-muted)' }}>{d.state}</div>
+          <div style={{ textAlign: 'center', color: d.state === homeState ? 'var(--accent)' : 'var(--text-muted)' }}>{d.state}</div>
           <div style={{ color: 'var(--text-dim)' }}>{d.date}</div>
         </div>
       ))}
