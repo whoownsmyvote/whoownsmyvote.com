@@ -102,15 +102,15 @@
     "chamber": "Senate",
     "state": "NC",
     "dateRange": "Jan 2025 – Mar 2026",
-    "totalRaised": 1907861,
-    "homeStatePercent": 33.3,
-    "outOfStatePercent": 66.7,
+    "totalRaised": 1204833,
+    "homeStatePercent": 43.8,
+    "outOfStatePercent": 56.2,
     "aipacTotal": 0,
     "aipacPercent": 0.0,
-    "individualTotal": 1359931,
-    "pacMoney": 558180,
-    "pacPercent": 29,
-    "avgDonation": 318,
+    "individualTotal": 679010,
+    "pacMoney": 546180,
+    "pacPercent": 44,
+    "avgDonation": 162,
     "maxedOosPercent": 64.4
   }
 ]
