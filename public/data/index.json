@@ -93,5 +93,24 @@
     "pacPercent": 40,
     "avgDonation": 78,
     "maxedOosPercent": 91.1
+  },
+  {
+    "name": "Ted Budd",
+    "slug": "ted-budd-nc",
+    "district": "NC-Senate",
+    "party": "R",
+    "chamber": "Senate",
+    "state": "NC",
+    "dateRange": "Jan 2025 – Mar 2026",
+    "totalRaised": 1907861,
+    "homeStatePercent": 33.3,
+    "outOfStatePercent": 66.7,
+    "aipacTotal": 0,
+    "aipacPercent": 0.0,
+    "individualTotal": 1359931,
+    "pacMoney": 558180,
+    "pacPercent": 29,
+    "avgDonation": 318,
+    "maxedOosPercent": 64.4
   }
 ]
